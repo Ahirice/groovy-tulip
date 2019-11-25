@@ -37,6 +37,11 @@ sections:
   exclude: "{posts/**,_index.md,contact.md}"
   templates:
   - page
+- type: document
+  path: data/subscribe.json
+  label: Subscribe
+  templates:
+  - subscribe
 - type: directory
   path: content/posts
   label: Post
@@ -44,11 +49,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: document
-  path: data/subscribe.json
-  label: Subscribe
-  templates:
-  - subscribe
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
