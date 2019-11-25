@@ -3,7 +3,7 @@ title: Stackbit Ampersand Theme
 baseURL: "/"
 params:
   layout_style: grid
-  palette: red
+  palette: green
   header:
     title: Ampersand
     logo_img: images/logo.png
