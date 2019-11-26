@@ -1,5 +1,5 @@
 ---
-title: Monolith Blog - Your all-in-one gateway to Decentralised Finance
+title: Blog
 sections:
 - type: intro
   template: intro
