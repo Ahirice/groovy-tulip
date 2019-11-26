@@ -31,7 +31,7 @@ All your interactions with the Monolith Wallet and Card are done using your phon
 
 Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat)
 
-<a href="https://monolith.app.link/1Et7kyYZV1"><img src="/images/2-STORES.resized.png""></img></a>
+<a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES.resized.png""></img></a>
 
 [<img src="/images/2-STORES.resized.png">](https://monolith.app.link/1Et7kyYZV1)
 
