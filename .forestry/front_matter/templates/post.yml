@@ -38,7 +38,6 @@ fields:
     required: true
 pages:
 - content/posts/yoyoyoy.md
-- content/posts/working-from-home.md
 - content/posts/what-isphotography.md
 - content/posts/relax-in-nature.md
 - content/posts/moving-to-new-york.md
