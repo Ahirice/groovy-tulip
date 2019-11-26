@@ -11,7 +11,7 @@ params:
   footer:
     content: "&copy; 2019 Monolith. All rights reserved."
     links:
-    - text: App Privacy Policy
+    - text: Privacy Policy
       url: https://monolith.xyz/legals/platform/privacy-policy/privacy/
       new_window: true
     - text: Contract Wallet Code
