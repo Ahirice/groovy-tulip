@@ -19,3 +19,11 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - url: https://aaa.com
+    name: "\U0001F4F2 Get the app"
+    weight: 4
+  - url: https://monolith.xyz
+    name: Website
+    weight: 3
