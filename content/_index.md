@@ -11,7 +11,7 @@ sections:
 
     Monolith is an actor of the Ethereum ecosystem. We provide a secure wallet for users to store their assets and access DeFi services; it's paired with a Visa Debit card to enable them to spend them everywhere conveniently.
   actions:
-  - label: "\U0001F30C Path to transcendence"
+  - label: "\U0001F30C Ascend to the Ether"
     url: "/about"
 layout: home
 menu:
