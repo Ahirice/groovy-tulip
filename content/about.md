@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: Learn more about Monolith, decentralised finance & Ethereum
-img_path: "/images/Decentralised_Finance@2x-800.png"
+img_path: "/images/Header.png"
 layout: page
 menu:
   main:
