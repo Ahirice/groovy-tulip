@@ -3,6 +3,8 @@ img_path = "/images/monolith-cards-community.png"
 layout = "page"
 subtitle = "Learn, grow & contribute!"
 title = "Community"
+[menu.main]
+weight = 3
 
 +++
 Testo
