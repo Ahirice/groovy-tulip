@@ -5,7 +5,7 @@
   {{ if .section.actions }}
   <p class="intro-cta">
     {{ range $action := .section.actions }}
-    <a align="center" href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+    <div aling="center"> <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a></div>
     {{ end }}
   </p>
   {{ end }}
