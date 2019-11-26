@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Discord",
+      "icon": "fa-discord",
+      "url": "https://discord.gg/YrrFpFd"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
