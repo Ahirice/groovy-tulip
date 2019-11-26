@@ -6,7 +6,7 @@ params:
   palette: green
   header:
     title: Ampersand
-    logo_img: images/logo.png
+    logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
     has_nav: true
   footer:
     content: "&copy; All rights reserved."
