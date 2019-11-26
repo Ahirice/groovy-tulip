@@ -31,7 +31,7 @@ Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0
 
 ![](/images/Monolith_App_and_Card_V2-tighter-compressor.jpg)
 
-<a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES-small.jpg" align ="center"></img></a>
+<div align="center"><a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES-small.jpg"></img></a></div>
 
 ### Which tokens are supported?
 
