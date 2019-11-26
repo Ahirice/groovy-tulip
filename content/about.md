@@ -25,17 +25,15 @@ Users can set up a whitelist as well as daily spending limits to protect their a
 
 ### 💳 How do I get a card?
 
-The cards are already available and shipping to the UK, and most other European countries: all 31 countries of the EEA.
+The cards are already available and shipping to the UK, and most other European countries: **all 31 countries of the EEA.**
 
 All your interactions with the Monolith Wallet and Card are done using your phone.
 
-Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat)
+Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat).
 
 <a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES.resized.png""></img></a>
 
-[<img src="/images/2-STORES.resized.png">](https://monolith.app.link/1Et7kyYZV1)
-
-## 👉 [Get the Monolith App 💳](https://monolith.app.link/rUNR0lu2Q1)
+![Monolith App & Card](/images/Monolith_App_and_Card_V2-compressor.jpg "Monolith App & Card")
 
 ### Which tokens are supported?
 
@@ -51,7 +49,7 @@ You can currently top-up your card with:
 
 | SERVICE | APPLE PAY | GOOGLE PAY | VERIFIED BY VISA | CURVE |
 | :---: | :---: | :---: | :---: | :---: |
-| WORKS WITH MONOLITH CARD | ❌ | ✔ | ✔ | ✔ |
+| **WORKS WITH MONOLITH CARD** | ❌ | ✔ | ✔ | ✔ |
 
 _Verified by Visa is sometimes referred as 3D-SECURE_
 
@@ -61,21 +59,23 @@ The fees are kept to a minimum. There is no setup fee, no activation fee, nor do
 
 | Item | Fee |
 | --- | --- |
-| Monthly Fee | 0 |
-| Card Activation & Shipping | 0 |
-| Transaction Fee | 1% |
-| License Fee (->Community Chest) | 1% |
+| **Monthly Fee** | 0 |
+| **Card Activation & Shipping** | 0 |
+| **Transaction Fee** | 1% |
+| **License Fee (->Community Chest)** | 1% |
 
 |  | Domestic Fee | Europe Fee | International Fee |
 | --- | --- | --- | --- |
-| Payment at Merchant | 0% | 1.75 % | 1.75 % |
-| ATM Withdrawal | Free up to 2/month, then £0.75  / €0.85 per withdrawal | £1.20 / €1.50 (e.g. if in a UK ATM with € card) | £1.75 / €2.00 |
+| **Payment at Merchant** | 0% | 1.75 % | 1.75 % |
+| **ATM Withdrawal** | Free up to 2/month, then £0.75  / €0.85 per withdrawal | £1.20 / €1.50 (e.g. if in a UK ATM with € card) | £1.75 / €2.00 |
 
 The licensing fees collected populate the community chest, which is where it gets really exciting!
 
 ***
 
 ### Where are my funds stored with Monolith?
+  
+> The [source code of the wallet](https://github.com/tokencard/contracts) is not only open-source (GPL3); it's also thoroughly documented to make sure each of our users can understand the functions they interact with daily.
 
 Monolith provides you with a non-custodial Ethereum Contract Wallet. Don't panic; let's unpack this:
 
@@ -90,6 +90,8 @@ Worried about smart contract failures? The code of our contract wallet has been 
 ***
 
 ### What is TKN and Community Chest?
+  
+> Every time one of our users top-up his card with any token other than TKN, a 1% licensing fee is charged and sent to the community chest. TKN holders can claim their share of the community chest at any time using Cash & Burn.
 
 The [Community Chest](https://etherscan.io/address/asset-contract.tokencard.eth#analytics) is a smart contract that grows through the proliferation and usage of the card. Every time one of our users top-up his card with any token other than TKN, a 1% licensing fee is charged and sent to the community chest. TKN holders can claim their share of the community chest at any time using Cash & Burn.
 
@@ -105,7 +107,7 @@ Since burning your TKN reduces the total amount of TKN in circulation, it propor
 
 ***
 
-## Where can I learn more about Monolith?
+### Where can I learn more about Monolith?
 
 You've come to the right place! If you're just discovering the project, here are some good reads to get started:
 
