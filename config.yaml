@@ -9,7 +9,7 @@ params:
     logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
     has_nav: true
   footer:
-    content: "&copy; All rights reserved."
+    content: "&copy; Monolith All rights reserved."
     links: []
     has_social: true
 disableKinds:
