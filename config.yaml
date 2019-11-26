@@ -3,7 +3,7 @@ title: Stackbit Ampersand Theme
 baseURL: "/"
 params:
   layout_style: grid
-  palette: green
+  palette: black
   header:
     title: Monolith Blog
     logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
