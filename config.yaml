@@ -10,7 +10,10 @@ params:
     has_nav: true
   footer:
     content: "&copy; Monolith All rights reserved."
-    links: []
+    links:
+    - text: Testo
+      url: https://test.com
+      new_window: true
     has_social: true
 disableKinds:
 - RSS
