@@ -1,22 +1,21 @@
 ---
-title: Home
+title: Monolith Blog - Your all-in-one gateway to Decentralised Finance
 sections:
-  - type: intro
-    template: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
+- type: intro
+  template: intro
+  title: Intro
+  section_id: intro
+  component: intro.html
+  content: This is the "about" excerpt. It can be used to provide a paragraph about
+    yourself that people can read on the homepage to get a sense of who you are. There
+    also exists a dedicated about page where you can write more about yourself for
+    those who are interested.
+  actions:
+  - label: Learn More
+    url: "/about"
+layout: home
 menu:
   main:
-    name: Home
     weight: 1
-layout: home
+
 ---
