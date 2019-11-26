@@ -1,31 +1,21 @@
 {
   "links": [
     {
-      "title": "Facebook",
-      "icon": "fa-facebook",
-      "url": "https://www.facebook.com/MonolithWeb3/"
-    },
-    {
-      "title": "Youtube",
-      "icon": "fa-youtube",
-      "url": "https://www.youtube.com/c/monolith_web3"
-    },
-    {
-      "title": "Discord",
-      "icon": "fa-discord",
-      "url": "https://discord.gg/YrrFpFd"
-    },
-    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
       "url": "https://twitter.com/monolith_web3"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/monolith_web3/"
+      "type": "devto",
+      "title": "Telegram",
+      "icon": "fa-telegram",
+      "url": "https://t.me/Monolith_Web3"
+    },
+    {
+      "title": "Discord",
+      "icon": "fa-discord",
+      "url": "https://discord.gg/YrrFpFd"
     },
     {
       "type": "github",
@@ -40,10 +30,20 @@
       "url": "https://www.linkedin.com/company/monolithweb3/"
     },
     {
-      "type": "devto",
-      "title": "Telegram",
-      "icon": "fa-telegram",
-      "url": "https://t.me/Monolith_Web3"
+      "title": "Youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/c/monolith_web3"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/monolith_web3/"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/MonolithWeb3/"
     }
   ]
 }
