@@ -29,9 +29,9 @@ The cards are already available and shipping to the UK, and most other European 
 
 Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat).
 
-![Monolith App & Card](/images/Monolith_App_and_Card_V2-tighter.jpg "Monolith App & Card")
+![](/images/Monolith_App_and_Card_V2-tighter-compressor.jpg)
 
-<a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES-small.png""></img></a>
+<a href="https://monolith.app.link/1Et7kyYZV1" target="_blank"><img src="/images/2-STORES-small.jpg" align ="center"></img></a>
 
 ### Which tokens are supported?
 
