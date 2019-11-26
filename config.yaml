@@ -5,7 +5,7 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
+    title: Monolith Blog
     logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
     has_nav: true
   footer:
