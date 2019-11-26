@@ -9,12 +9,12 @@ params:
     logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
     has_nav: true
   footer:
-    content: "&copy; Monolith All rights reserved."
+    content: "&copy; 2019 Monolith. All rights reserved."
     links:
     - text: App Privacy Policy
       url: https://monolith.xyz/legals/platform/privacy-policy/privacy/
       new_window: true
-    - text: Contract Wallet Code & Audits
+    - text: Contract Wallet Code
       url: https://github.com/tokencard/contracts
       new_window: true
     has_social: true
