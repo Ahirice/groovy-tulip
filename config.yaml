@@ -3,7 +3,7 @@ title: Monolith, the decentralised banking alternative powered by Ethereum
 baseURL: "/"
 params:
   layout_style: grid
-  palette: black
+  palette: red
   header:
     title: Monolith Blog
     logo_img: "/images/Monolith_Logo_Black_Horizontal.resized.png"
