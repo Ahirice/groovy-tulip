@@ -6,10 +6,10 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: |-
+    All around the world, decentralised finance (DeFi) enthusiasts are crafting the building blocks of a new financial system. Enabled by blockchains, DeFi provides elite financial services to anyone.
+
+    Monolith is an actor of the Ethereum ecosystem. We provide a secure wallet for users to store their assets; it's paired with a Visa Debit card to enable them to spend them everywhere conveniently.
   actions:
   - label: Learn More
     url: "/about"
