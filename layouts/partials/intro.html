@@ -3,9 +3,9 @@
     {{ partial "markdownify-block" .section.content }}
   </div>
   {{ if .section.actions }}
-  <p class="intro-cta">
+  <p class="intro-cta" align="center">
     {{ range $action := .section.actions }}
-    <div aling="center"> <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a></div>
+    <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
     {{ end }}
   </p>
   {{ end }}
