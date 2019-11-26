@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/c/monolith_web3"
+    },
+    {
       "title": "Discord",
       "icon": "fa-discord",
       "url": "https://discord.gg/YrrFpFd"
