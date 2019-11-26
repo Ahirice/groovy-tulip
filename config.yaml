@@ -23,7 +23,4 @@ menu:
   main:
   - url: https://monolith.app.link/1Et7kyYZV1
     name: "\U0001F4F2 Get the app"
-    weight: 4
-  - url: https://monolith.xyz
-    name: Website
     weight: 3
