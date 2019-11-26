@@ -14,6 +14,9 @@ params:
     - text: App Privacy Policy
       url: https://monolith.xyz/legals/platform/privacy-policy/privacy/
       new_window: true
+    - text: Contract Wallet Code & Audits
+      url: https://github.com/tokencard/contracts
+      new_window: true
     has_social: true
 disableKinds:
 - RSS
