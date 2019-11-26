@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Reddit",
+      "icon": "fa-reddit",
+      "url": "https://www.reddit.com/r/monolith_web3"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
