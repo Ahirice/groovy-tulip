@@ -12,6 +12,8 @@ menu:
 
 Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-20 in real-life, the way you're used to: with a debit card accepted anywhere.
 
+> You are the one and only in control of the assets stored in your contract wallet
+
 Monolith cards are paired with a non-custodial contract wallet to secure crypto assets to the best of current technical possibilities. **You are the one and only in control of the assets stored in your contract wallet**. Each of our users deploys their own instance of the [Monolith contract wallet](https://github.com/tokencard/contracts).
 
 Users can set up a whitelist as well as daily spending limits to protect their assets, even if their wallet was to be compromised, without compromising on the solution's usability.
@@ -131,11 +133,3 @@ You've come to the right place! If you're just discovering the project, here are
 - [🎧 Into the Ether x TokenCard: Path to a Self-Sovereign Banking Service](https://ethhub.substack.com/p/tokencard-path-to-a-self-sovereign) | 50 min
 - [🌏 Monolith - Spend Cryptocurrency Anywhere in the World - Crypto Love](https://youtu.be/UW7oVPE7EQE) | 32 min
 - [🏦 Monolith Exclusive Review | Best Crypto Bank Solution?!  - BTCTV](https://www.youtube.com/watch?v=CN_zgPaYz78) | 17 min
-
-------
-
-Want to dig more? Join the community:
-
-|                                       |                                        |                                               |                                         |                                   |
-| :-----------------------------------: | :------------------------------------: | :-------------------------------------------: | :-------------------------------------: | :-------------------------------: |
-| [📜Blog](https://medium.com/@Monolith) | [🎮Discord](https://discord.gg/YrrFpFd) | [🐦Twitter](https://twitter.com/monolith_web3) | [✈️Telegram](https://t.me/Monolith_Web3) | [🕸️Website](https://monolith.xyz/) |
