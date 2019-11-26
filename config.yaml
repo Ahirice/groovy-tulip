@@ -11,8 +11,8 @@ params:
   footer:
     content: "&copy; Monolith All rights reserved."
     links:
-    - text: Testo
-      url: https://test.com
+    - text: App Privacy Policy
+      url: https://monolith.xyz/legals/platform/privacy-policy/privacy/
       new_window: true
     has_social: true
 disableKinds:
