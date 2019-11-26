@@ -26,9 +26,9 @@
     },
     {
       "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/"
+      "title": "Telegram",
+      "icon": "fa-telegram",
+      "url": "https://t.me/Monolith_Web3"
     }
   ]
 }
