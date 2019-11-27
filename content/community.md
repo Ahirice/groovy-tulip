@@ -10,7 +10,11 @@ weight = 3
 ### Community Channels
 
 
-<a href= "https://twitter.com/monolith_web3"><img src="/images/twitter.png" align = "left" width = 128px height = 128px> </img></a> Twitter is our main public communication channel. Follow us here to stay in touch.
+<ahref= "https://twitter.com/monolith_web3"><img src="/images/twitter.png" align = "left"></img></a>
+
+<div align = "left"><ahref= "https://twitter.com/monolith_web3"><img src="/images/twitter.png"></img></a></div>
+
+Twitter is our main public communication channel. Follow us here to stay in touch.
 
 Our community hangs out on our Discord/Telegram. Both channels are bridged together. We also have several other channels on our Discord to entertain broader discussions about blockchains.
 
