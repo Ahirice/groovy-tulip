@@ -1,19 +1,23 @@
 +++
 img_path = "/images/monolith-cards-community.png"
 layout = "page"
-subtitle = "Learn, grow & contribute!"
+subtitle = "Join our community to be at the heart of the decentralised finance revolution. "
 title = "Community"
 [menu.main]
 weight = 3
 
 +++
-Testo
+### Community Channels
 
-| Channel |                           Details                            |
-| :-----: | :----------------------------------------------------------: |
-|    <div align="center"><ahref="https://twitter.com/monolith_web3"><img src="/images/twitter.png" height="120" width="120"></img></ahref></div>    | Twitter is the main channel we use to communicate publicly.  |
-|   <div align="center"><ahref="https://t.me/Monolith_Web3"><img src="/images/telegram.png" height="120" width="120"></img></ahref></div>    | Our community gather on Discord to discuss our latest news.  |
-|   <div align="center"><ahref="https://discord.gg/YrrFpFd"><img src="/images/discord.png" height="120" width="120"></img></ahref></div>   | Our Telegram channel is paired with our Discord #monolith-chat channel. |
-|  <div align="center"><ahref="https://www.reddit.com/r/monolith_web3"><img src="/images/reddit.png" height="120" width="120"></img></ahref></div>   |        We also share our content on our own subreddit        |
 
-Yo
+<a href= "https://twitter.com/monolith_web3"><img src="images/twitter.png" align = "left" style="width:128px;height:128px;></a> Twitter is our main public communication channel. Follow us here to stay in touch.
+
+Our community hangs out on our Discord/Telegram. Both channels are bridged together. We also have several other channels on our Discord to entertain broader discussions about blockchains.
+
+Finally, you can check /r/Monolith_web3 if you are a Redditor.
+
+Feel free to share your feedback on any channel — they help us grow and improve the service.
+
+### Get Involved
+
+Loving your Monolith card? Feel free to write about it and let us know! If you enjoy your experience with Monolith, and speak an European language different than English, feel free to [reach out to Brice](mailto:brice@monolith.xyz) (Community Builder) if you would like to write about your experience in your native language.
