@@ -11,9 +11,9 @@ Join our community to be at the heart of the decentralised finance revolution.
 
 ### Community Channels
 
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> <h5>Twitter</h>
+<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> <h5>Twitter</h5> Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
-Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> ##### Twitter<br> Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
 ##### Discord
 
