@@ -11,21 +11,13 @@ Join our community to be at the heart of the decentralised finance revolution.
 
 ### Community Channels
 
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> <h5>Twitter</h5> Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<ahref= "https://twitter.com/monolith_web3"><img src="/images/twitter.png" align = "left"></img></a> <h4>Twitter</h4> Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> ##### Twitter<br> Twitter is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<ahref= "https://discord.gg/YrrFpFd"><img src="/images/discord.png" align = "left"></img> <h4>Discord</h4></a> Our most active community members hang out on Discord, where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
 
-##### Discord
+<ahref= "https://t.me/monolith_web3"><img src="/images/telegram.png" align = "left"></img></a> <h4>Discord</h4> Telegram is our second main community channel. Our Telegram is bridged with our Discord #monolith-chat channel: messages sent on one support are replicated on the other.
 
-Our most active community members hang out on Discord, where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
-
-##### Telegram
-
-Telegram is our second main community channel. Our Telegram is bridged with our Discord #monolith-chat channel: messages sent on one support are replicated on the other.
-
-##### Reddit
-
-Finally, we have a subreddit, /r/Monolith_web3 where you can find our news, ask your questions about our service, and share any content relevant to Monolith.
+<ahref= "https://www.reddit.com/r/monolith_web3"><img src="/images/reddit.png" align = "left"></img> <h4>Discord</h4></a> Finally, we have a subreddit, /r/Monolith_web3 where you can find our news, ask your questions about our service, and share any content relevant to Monolith.
 
 Feel free to share your feedback on any channel — they help us grow and improve the service.
 
