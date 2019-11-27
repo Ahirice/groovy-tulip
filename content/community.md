@@ -7,8 +7,6 @@ title = "Community"
 weight = 3
 
 +++
-Join our community to be at the heart of the decentralised finance revolution. 
-
 ### Community Channels
 
 <img src="/images/twitter.png" align = "left"></img> <h4 Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
