@@ -10,9 +10,9 @@ weight = 3
 ### Community Channels
 
 
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a>
+<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> Twitter is our main public communication channel. Follow us here to stay in touch.
 
-<div align = "left"><ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png"></img></a></div>
+<div align = "left"><ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png"></img></a></div> Twitter is our main public communication channel. Follow us here to stay in touch.
 
 Twitter is our main public communication channel. Follow us here to stay in touch.
 
