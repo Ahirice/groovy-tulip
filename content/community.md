@@ -24,25 +24,3 @@ Feel free to share your feedback on any channel — they help us grow and improv
 ### Get Involved
 
 Are you loving your Monolith card? Feel free to write about it and let us know! If you enjoy your experience with Monolith and speak a European language different than English, feel free to [reach out to Brice](mailto:brice@monolith.xyz) (Community Builder) if you would like to write about your experience in your native language.
-
-### Community Channels
-
-
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> TEXT TEXT
-
-Twitter is our main public communication channel. Follow us here to stay in touch.
-
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> TEXT TEXT
-
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> TEXT TEXT
-Our community hangs out on our Discord/Telegram. Both channels are bridged together. We also have several other channels on our Discord to entertain broader discussions about blockchains.
-
-<ahref= "https://twitter.com/monolith_web3"><img src="/images/discord.png" align = "left"></img></a> TEXT TEXT
-
-Finally, you can check /r/Monolith_web3 if you are a Redditor.
-
-Feel free to share your feedback on any channel — they help us grow and improve the service.
-
-### Get Involved
-
-Loving your Monolith card? Feel free to write about it and let us know! If you enjoy your experience with Monolith, and speak an European language different than English, feel free to [reach out to Brice](mailto:brice@monolith.xyz) (Community Builder) if you would like to write about your experience in your native language.
