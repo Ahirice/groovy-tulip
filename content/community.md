@@ -1,4 +1,5 @@
 +++
+description = "Want to join the decentralised finance movement? Find here all relevant links to join the Monolith community."
 img_path = "/images/monolith-cards-community.png"
 layout = "page"
 subtitle = "Join our community to be at the heart of the decentralised finance revolution. "
