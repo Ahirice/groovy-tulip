@@ -9,13 +9,13 @@ weight = 3
 +++
 ### Community Channels
 
-<img src="/images/tweet.png" align = "left"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<img src="/images/tweet.png" align = "left" hspace="10"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
-<img src="/images/discord.png" align = "left"></img> <h4>Discord</h4> Our most active community members hang out on [Discord](https://discord.gg/YrrFpFd"), where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
+<img src="/images/discord.png" align = "left" hspace="10"></img> <h4>Discord</h4> Our most active community members hang out on [Discord](https://discord.gg/YrrFpFd"), where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
 
-<img src="/images/telegram.png" align = "left"></img> <h4>Telegram</h4> [Telegram](https://t.me/monolith_web3) is our second main community channel. Our Telegram is bridged with our Discord #monolith-chat channel: messages sent on one support are replicated on the other.
+<img src="/images/telegram.png" align = "left" hspace="10"></img> <h4>Telegram</h4> [Telegram](https://t.me/monolith_web3) is our second main community channel. Our Telegram is bridged with our Discord #monolith-chat channel: messages sent on one support are replicated on the other.
 
-<img src="/images/redd.png" align = "left"></img> <h4>Discord</h4> Finally, we have a subreddit, [/r/Monolith_web3](https://www.reddit.com/r/monolith_web3) where you can find our news, ask your questions about our service, and share any content relevant to Monolith.
+<img src="/images/redd.png" align = "left" hspace="10"></img> <h4>Discord</h4> Finally, we have a subreddit, [/r/Monolith_web3](https://www.reddit.com/r/monolith_web3) where you can find our news, ask your questions about our service, and share any content relevant to Monolith.
 
 Feel free to share your feedback on any channel — they help us grow and improve the service.
 
