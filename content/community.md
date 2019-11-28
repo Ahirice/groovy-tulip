@@ -11,9 +11,9 @@ weight = 3
 
 <img src="/images/i-twitter.png" align = "left" hspace="10"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
-<img src="/images/i-twitter.png" align = "left" hspace="10"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<img src="/images/i-twitter.png" align = "left" hspace="10"></img> <h4> Twitter</h4> The easiest way to follow us is through [Twitter](ttps://twitter.com/monolith_web3), our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
-<img src="/images/discord.png" align = "left" hspace="10"></img> <h4>Discord</h4> Our most active community members hang out on [Discord](https://discord.gg/YrrFpFd"), where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
+<img src="/images/discord.png" align = "left" hspace="10"></img> <h4>Discord</h4> Our most active community members hang out on [Discord](https://discord.gg/YrrFpFd%22), where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
 
 <img src="/images/telegram.png" align = "left" hspace="10"></img> <h4>Telegram</h4> [Telegram](https://t.me/monolith_web3) is our second main community channel. Our Telegram is bridged with our Discord #monolith-chat channel: messages sent on one support are replicated on the other.
 
