@@ -23,6 +23,11 @@ fields:
   default: page
   config:
     required: true
+- name: description
+  type: text
+  config:
+    required: true
+  label: Meta-Description
 pages:
 - content/community.md
 - content/about.md
