@@ -42,5 +42,5 @@ fields:
     required: true
   label: Meta-Description
 pages:
-- content/posts/what-isphotography.md
 - content/posts/yoyoyoy.md
+- content/posts/what-isphotography.md
