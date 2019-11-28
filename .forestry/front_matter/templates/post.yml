@@ -36,6 +36,11 @@ fields:
   default: post
   config:
     required: true
+- name: description
+  type: text
+  config:
+    required: true
+  label: Meta-Description
 pages:
 - content/posts/yoyoyoy.md
 - content/posts/what-isphotography.md
