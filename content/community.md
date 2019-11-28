@@ -9,7 +9,7 @@ weight = 3
 +++
 ### Community Channels
 
-<img src="/images/tweet.png" align = "left" hspace="10"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
+<img src="/images/i-twitter.png" align = "left" hspace="10"></img> <h4> Twitter</h4> [Twitter](ttps://twitter.com/monolith_web3) is our main public communication channel. Follow us here to stay in touch, get our latest news and content. We also organise giveaways so follow us if you don't want to miss the next one.
 
 <img src="/images/discord.png" align = "left" hspace="10"></img> <h4>Discord</h4> Our most active community members hang out on [Discord](https://discord.gg/YrrFpFd"), where they chat about Monolith, our app, and blockchains in general. We also have announcements and monitoring channels to follow our news and activities on other channels.
 
