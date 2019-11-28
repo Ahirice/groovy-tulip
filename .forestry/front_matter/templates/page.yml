@@ -29,5 +29,5 @@ fields:
     required: true
   label: Meta-Description
 pages:
-- content/community.md
 - content/about.md
+- content/community.md

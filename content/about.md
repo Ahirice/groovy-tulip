@@ -3,6 +3,8 @@ title: About
 subtitle: Learn more about Monolith, decentralised finance & Ethereum
 img_path: "/images/Header-compressor.png"
 layout: page
+description: A comprehensive guide to learn about Monolith, the decentralised banking
+  alternative powered by Ethereum
 menu:
   main:
     weight: 2
