@@ -4,7 +4,9 @@ baseURL: "/"
 languageCode: en-us
 DefaultContentLanguage: en
 enableRobotsTXT: false
+# googleAnalytics: UA-XXXX
 params:
+  favicon: /images/favicon.ico
   layout_style: grid
   palette: red
   header:
