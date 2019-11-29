@@ -1,6 +1,9 @@
 ---
 title: Monolith, the decentralised banking alternative powered by Ethereum
 baseURL: "/"
+languageCode: en-us
+DefaultContentLanguage: en
+enableRobotsTXT: false
 params:
   layout_style: grid
   palette: red
