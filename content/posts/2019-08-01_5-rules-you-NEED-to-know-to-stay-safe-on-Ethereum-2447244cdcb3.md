@@ -184,10 +184,8 @@ Blockchains embody a fundamental paradigm shift. For the first time, we now have
 
 However, **such benefits can only materialize if the user is responsible and in full custody of its funds at all times.** Without that, we’re just making yet another trade-off and importing some of the risks that exist in the financial world to the crypto world. It's easy:
 
-Set up your contract wallet and get your TokenCard 💳 :
+Set up your contract wallet and get your Monolith 💳 :
 
-[➡️ Store & Spend your crypto safely, conveniently, and without compromises](https://tokencard.io)
+[➡️ Store & Spend your crypto safely, conveniently, and without compromises](https://monolith.xyz)
 
-— Team TokenCard
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
+— Team Monolith

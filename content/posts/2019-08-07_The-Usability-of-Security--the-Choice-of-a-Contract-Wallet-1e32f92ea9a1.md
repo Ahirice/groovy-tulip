@@ -101,5 +101,3 @@ All things considered, this is the core benefit of decentralised and non-custodi
 If you are curious about the underlying mechanics of our contract wallet, feel free to check [the code and the audits on GitHub](https://github.com/tokencard/contracts).
 
 — Team Monolith
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

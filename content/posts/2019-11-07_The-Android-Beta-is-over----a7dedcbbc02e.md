@@ -29,5 +29,3 @@ Reviews are the nerve of the war for mobile apps; they are one of the most impac
 Your rating truly makes a difference!
 
 Thanks for your support and your feedback, we’re looking forward to the next announcements we’ll be sharing with you in the coming weeks. 👋
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

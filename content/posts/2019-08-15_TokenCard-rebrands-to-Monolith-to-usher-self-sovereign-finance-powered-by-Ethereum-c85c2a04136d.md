@@ -14,9 +14,9 @@ excerpt: >-
   Monolith makes it simple, safe and practical to live your financial life on
   Ethereum. Be the ruler of your own decentralised kingdom.
 layout: post
+thumb_img_path: https://cdn-images-1.medium.com/max/2560/1*kCFgcfRzore3mLX0OQnqfA.png
+content_img_path: https://cdn-images-1.medium.com/max/2560/1*kCFgcfRzore3mLX0OQnqfA.png
 ---
-
-![TokenCard is now Monolith — featuring the Monolith Visa Card and the app](https://cdn-images-1.medium.com/max/2560/1*kCFgcfRzore3mLX0OQnqfA.png)
 
 We are thrilled to announce that TokenCard’s rebranding to Monolith. This rebrand represents the next evolution of the company, one which doesn’t just include a new name, but also comes with many exciting new features and additions.
 
@@ -62,5 +62,3 @@ Our project, Monolith, brings Ethereum to life.
 Our transition to Monolith is a significant milestone in our development, yet the journey is just beginning. We are working on many exciting projects — and we can’t wait to show you!
 
 Step through the portal, and see you on the other side, Etherian.
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

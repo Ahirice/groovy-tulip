@@ -115,5 +115,3 @@ We want to thank everyone who has supported us on this journey. 🎉
 5.  We defined the problem, investigated and found the right balance between user security and reach.
 6.  We had our Android app live internally for a month and for two months in Beta.
 7.  We launched in the Play Store and are moving quickly in delivering the next major version of our app.
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

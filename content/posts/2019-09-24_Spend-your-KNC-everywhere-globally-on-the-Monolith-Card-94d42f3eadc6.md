@@ -7,9 +7,9 @@ keywords: []
 slug: /spend-your-knc-everywhere-globally-on-the-monolith-card
 excerpt: "Spend KNC on your Monolith Card, get TKN on KyberSwap OR \U0001F4B8 get both for free with our Twitter giveaway campaign!"
 layout: post
+thumb_img_path: https://cdn-images-1.medium.com/max/2560/1*q6t0KgMrfyVvabKI--C8dg.png
+content_img_path: https://cdn-images-1.medium.com/max/2560/1*q6t0KgMrfyVvabKI--C8dg.png
 ---
-
-![Spend KNC globablly with the Monolith Card](https://cdn-images-1.medium.com/max/2560/1*q6t0KgMrfyVvabKI--C8dg.png)
 
 We’re thrilled to announce that you can spend a new token on the Monolith Card: Kyber Network’s KNC!
 

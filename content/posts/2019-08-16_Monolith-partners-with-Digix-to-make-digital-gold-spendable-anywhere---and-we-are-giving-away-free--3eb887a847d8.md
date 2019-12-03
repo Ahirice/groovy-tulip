@@ -48,5 +48,3 @@ The rewards from both campaigns will be deposited straight into your Monolith wa
 Digix has been making digital gold a reality since March 2018 with the DGX token. Every DGX token represents 1 gram of gold that is stored in accredited precious metals vaults in Singapore and Canada. Retail investors can exchange their DGX token back at Digix to redeem their gold.
 
 Simply put, Digix provides the most convenient and transparent way for retail investors to hold physical investment-grade gold bullion. The integration of Digix with Monolith marks another milestone for both projects. The Monolith Debit Card provides a convenient gateway to spend DGX tokens in 65M+ point of sales worldwide. Thanks to Monolith, the digital gold standard is now even more liquid!
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
