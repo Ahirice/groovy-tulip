@@ -27,7 +27,7 @@ When you tap “Top Up”, you’re effectively authoring an Ethereum transactio
 
 Firstly, that 1 ETH is sent to a Token Treasury float (for this to occur, we do some checks to make sure that e.g. you have enough ETH in your wallet). Once this is OK’ed, the second step sees us instructing our issuing partner to send fiat back the other way into your TokenCard account. The fiat will be credited to your account instantly, ready to spend.
 
-![The TokenCard top-up flow, simplified](images/1__5EJSGKCd__er__RiIzv__yodg.png)
+![The TokenCard top-up flow, simplified](/images/1__5EJSGKCd__er__RiIzv__yodg.png)
 The TokenCard top-up flow, simplified
 
 If you’re wondering how we work out the ETH to GBP (or your preferred currency), we will quote you a rate which you can accept or decline before we execute the trade. We’ll always aim to provide a fair and competitive market rate to you.
@@ -46,7 +46,7 @@ At this point, the Acquirer will vet the transaction (usually on behalf of the M
 
 The Card Networks will generally pass the Authorization straight up the payment chain. This time: to the Processor. The Processor’s job here is to put the final checks in — making sure your TokenCard is active, that Coffee Shop is a legitimate merchant, and that you have £3 for that coffee. The Processor will typically own the ledger of money in and out, plus the balances of different cards — so they have a good grasp on whether or not you can buy your coffee from Coffee Shop.
 
-![The coffee’s on crypto, in just a few seconds!](images/1__Ila4As2qP6r1djon1W3m5Q.gif)
+![The coffee’s on crypto, in just a few seconds!](/images/1__Ila4As2qP6r1djon1W3m5Q.gif)
 The coffee’s on crypto, in just a few seconds!
 
 Once the Authorization for your purchase is approved — every institution in the chain has given an “all good” message — it works its way back to the POS and “Approved” will flash on the screen. At this point you’re free to drink your coffee, which will still be piping hot, as the whole payment process takes just a few seconds.

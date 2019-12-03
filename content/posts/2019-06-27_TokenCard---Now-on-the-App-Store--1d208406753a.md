@@ -36,7 +36,7 @@ TokenCard is your ticket to life on Ethereum. Store, send, and receive assets in
 
 💳 **Spend ETH, DAI, and TKN in the real world.** Convert your assets to fiat with the tap of a button, and spend with your TokenCard wherever Visa is accepted — 45 million merchants, worldwide.
 
-![Manage your digital assets in a secure, non-custodial Contract Wallet. Spend them with TokenCard. [**SIGN UP**](https://go.tokencard.io/blog-get).](images/1__cY__IjtEhQjyvFxN1h2__KEA.jpeg)
+![Manage your digital assets in a secure, non-custodial Contract Wallet. Spend them with TokenCard. [**SIGN UP**](https://go.tokencard.io/blog-get).](/images/1__cY__IjtEhQjyvFxN1h2__KEA.jpeg)
 Manage your digital assets in a secure, non-custodial Contract Wallet. Spend them with TokenCard. [**SIGN UP**](https://go.tokencard.io/blog-get).
 
 Join the hundreds of Tokenauts spending with TokenCard today. [**Download TokenCard on the App Store**](https://go.tokencard.io/blog-get). Android user? We’re launching the Android app soon™️ — [**follow us for updates here**](https://tokencard.io/#footer-form).

@@ -24,7 +24,7 @@ In a nutshell, this is an incredibly exciting milestone for the team as it allow
 
 For users, this importantly means that you can now [interact with your wallet](https://ropsten.etherscan.io/) on Ropsten using tools such as Etherscan, where you’ll also be able to see the contract [source code](https://ropsten.etherscan.io/address/0xc3c09ac893caa9eb238b6313d943af6c64036427#code). We really recommend that you check out Mischa’s description of the Contract Wallet on [Gist](https://gist.github.com/mischat/ca899c58bca9b89b7a9969c56a7b7b01) for the nitty gritty. Mischa will be putting more information on the contracts out there in the near future — including the full repository and details on a bug bounty.
 
-![Interacting with your TokenWallet on [Etherscan](https://ropsten.etherscan.io/)](images/1__VTHQrA6TxEW2y5f6lMW7vw.png)
+![Interacting with your TokenWallet on [Etherscan](https://ropsten.etherscan.io/)](/images/1__VTHQrA6TxEW2y5f6lMW7vw.png)
 Interacting with your TokenWallet on [Etherscan](https://ropsten.etherscan.io/)
 
 #### **KYC and ordering TokenCard**

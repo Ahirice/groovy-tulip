@@ -49,7 +49,7 @@ If you’ve been following on our [**Community Discord**](https://discord.gg/Rhx
 
 **This month we’re happy to announce that we’ve been approved by Apple to list on the App Store**! This comes off the back of months of work from whole team.
 
-![The App Store approval notification 🎉](images/1__G1aizjr58nLdKWtR6o6cew.png)
+![The App Store approval notification 🎉](/images/1__G1aizjr58nLdKWtR6o6cew.png)
 The App Store approval notification 🎉
 
 So you’re aware, the app is now pending developer release, which means that it’s up to us when we set it live. Before we do that, however, we’ll need to be live on MainNet. The Product and Engineering team are working around the clock to make the move to MainNet happen, and we’ll keep you updated as we make progress on that front!!

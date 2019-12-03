@@ -19,7 +19,7 @@ This month we’ve got some exciting updates from Product and Engineering, which
 *   TokenCard “proof of concept”
 *   User experience audits from our Alpha testers (thanks!)
 
-![[Check out our month-on-month Product Plan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](images/1__bCL__G3wl__srNDruWFhgDxA.png)
+![[Check out our month-on-month Product Plan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](/images/1__bCL__G3wl__srNDruWFhgDxA.png)
 [Check out our month-on-month Product Plan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)
 
 #### 💳 Soon™️ Step 1 Completed

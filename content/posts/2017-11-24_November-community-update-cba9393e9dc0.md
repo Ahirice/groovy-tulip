@@ -17,7 +17,7 @@ A busy month on and it is time for another update from the Token team. To kick o
 
 **Card design approved!**
 
-![](images/1__BrCCXwE3ZIzP2mOosKfXHQ.png)
+![](/images/1__BrCCXwE3ZIzP2mOosKfXHQ.png)
 
 Earlier this month, we submitted designs for the actual card to our card issuer. As the issuer, they get to set the rules for the design and approve the design — fair enough! We’re happy to announce that, after approximately 20 iterations, we’ve come up with a design that both of us love! Next step is to get approval from the card scheme, but we are told this is fairly straightforward. We can’t wait to share it here as soon as we are allowed to!
 
@@ -27,7 +27,7 @@ Following some requests from the community, we’ve looked at our communication 
 
 1.  We’ve launched a public [roadmap](https://tokencard.us14.list-manage.com/track/click?u=a08825d6fe73df28f11896631&id=bf84623b0e&e=9cff551801) on Trello to keep everyone up to date with our plans for the next year. It looks like this:
 
-![](images/1__SuT1GlBcDQfujJDaOig4Jg.png)
+![](/images/1__SuT1GlBcDQfujJDaOig4Jg.png)
 
 1.  We’ve increased our Twitter activity — if you don’t yet follow us, you can by clicking [here](https://tokencard.us14.list-manage.com/track/click?u=a08825d6fe73df28f11896631&id=0be675866c&e=9cff551801)
 2.  We continue to speak to our most engaged community members on the [forum](https://tokencard.us14.list-manage.com/track/click?u=a08825d6fe73df28f11896631&id=d38cd3152e&e=9cff551801) almost daily and invite many of you to join — hi guys 👋

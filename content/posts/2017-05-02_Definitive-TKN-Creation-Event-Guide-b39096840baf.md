@@ -42,7 +42,7 @@ layout: post
 *   Contributions will be held in control of Monolith Studio GmbH.
 *   We’re partnered with [Bitcoin Suisse AG](http://www.bitcoinsuisse.ch/monolith/) who will accept Fiat and BTC contribution on our behalf.
 
-![](images/1__LynADtvtWirGPd__hO__yCtg.png)
+![](/images/1__LynADtvtWirGPd__hO__yCtg.png)
 
 ### **Other Tokens**
 
@@ -71,7 +71,7 @@ The price of ETH is fixed right before the initiation of the Contribution Event 
 
 ### **TKN:ETH Schedule**
 
-![](images/1__rq__1DJh9tNph3VgHonhl6g.png)
+![](/images/1__rq__1DJh9tNph3VgHonhl6g.png)
 
 ### Catching up on TokenCard? Read this.
 

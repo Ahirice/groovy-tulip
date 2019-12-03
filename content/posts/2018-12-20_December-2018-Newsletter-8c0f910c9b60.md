@@ -31,7 +31,7 @@ As we move toward testing and releasing the first wave of TokenCards, we’ve be
 
 Our COO Ed took a look under the hood of the TokenCard, shedding some light on the mechanics of topping up and spending. [**You can read this month’s post here →**](https://medium.com/tokencard/the-coffees-on-crypto-%EF%B8%8F-a-deep-dive-into-how-your-tokencard-will-work-71fe81845b6f)
 
-![](images/1__Ila4As2qP6r1djon1W3m5Q.gif)
+![](/images/1__Ila4As2qP6r1djon1W3m5Q.gif)
 
 We’re building TokenCard so that it feels familiar day-to-day spending in all the important ways, whilst at the same time being a genuinely revolutionary experience. Today, that looks like a crypto-to-fiat top-up and a payment card like you know and love. Tomorrow, it is our aim to enable instant crypto auth, for an even smoother user experience when spending.
 
@@ -41,9 +41,9 @@ Last week, the Token Team (in our finest Christmas knitwear) got together for an
 
 As the order flow is one of the first points of contact for TokenCard users, we’re building with a firm eye on making it secure and robust, without losing out on usability. Our CEO Mel was the first to give it a go.
 
-![](images/1__ltO6cR8Y2K9HlWTPPQpKZQ.png)
-![](images/1__Ni11pxXIJo9nhp__ms9myhA.jpeg)
-![Mel ordering his TokenCard: a story in three parts.](images/1__XTVlJBNjyl__B__dI2QRkX9Q.jpeg)
+![](/images/1__ltO6cR8Y2K9HlWTPPQpKZQ.png)
+![](/images/1__Ni11pxXIJo9nhp__ms9myhA.jpeg)
+![Mel ordering his TokenCard: a story in three parts.](/images/1__XTVlJBNjyl__B__dI2QRkX9Q.jpeg)
 Mel ordering his TokenCard: a story in three parts.
 
 ### What we built last month
@@ -56,14 +56,14 @@ So we’ve made great progress this month on Community testing and piecing toget
 
 Yet to experience the latest updates? What are you waiting for? [**Sign up here**](http://eepurl.com/ga21Yn)!
 
-![[You can view our Product timeline anytime @ ProductPlan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](images/1__PbPUiKxbUPD9CmAhDoOUZQ.png)
+![[You can view our Product timeline anytime @ ProductPlan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](/images/1__PbPUiKxbUPD9CmAhDoOUZQ.png)
 [You can view our Product timeline anytime @ ProductPlan](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)
 
 ### The festive season at Token
 
 ’Tis the season 🎄 This month has also been about getting into the festive spirit. We had the second ever Token Christmas get together at the beginning of December, featuring demos from around the team and some great Christmas jumpers. Mel wins an award for his “Jurassic Card” DIY job…
 
-![Mel and David at the Token Christmas party](images/1__7zozmNLHiFbtD3BitnEY5w.jpeg)
+![Mel and David at the Token Christmas party](/images/1__7zozmNLHiFbtD3BitnEY5w.jpeg)
 Mel and David at the Token Christmas party
 
 As it’s the season of giving, we’ve also been updating our Twitter feed with “**12 Days of Token**”. Everyday, from Monday 10th of December to Friday 21st December, we’re posting a special update, image, or announcement. Stay tuned [@**tokencard\_io**](https://twitter.com/tokencard_io).

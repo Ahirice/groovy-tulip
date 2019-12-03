@@ -15,7 +15,7 @@ layout: post
 
 We’ve been laying the foundation for a depositless Ethereum token debit card and platform called **TokenCard**. The platform consists of three elements: the **Token Contract Wallet**, **TokenCard** and **Token App**.
 
-![Nice things. They are coming.](images/1__ZnjpqXJMF3ulAatwBVXW4Q.png)
+![Nice things. They are coming.](/images/1__ZnjpqXJMF3ulAatwBVXW4Q.png)
 Nice things. They are coming.
 
 The platform’s underlying token, called **TKN,** has a pro-rata claim on a diversified pool of ETH and ERC20 tokens. The **TKN Creation Event** starts on 2nd May 2017.
@@ -37,7 +37,7 @@ TokenCard allows you to spend ERC20 tokens at terminals around the world. This i
 
 This is where the Token Contract Wallet comes in. The Token Contract Wallet is an Ethereum Smart Contract wallet that functions as a user’s token bank account, funds are taken from here whenever you swipe your card. This is amazing. **You never have to deposit money with us, ever**: your funds are secured inside a Contract Wallet that you control — allowances made to enable TokenCard transactions are set by you the user, and can be modified or revoked at any time.
 
-![Excerpt from the whitepaper detailing allowances.](images/1____my6Xp1Ozr__u0JqK3Li8Pw.png)
+![Excerpt from the whitepaper detailing allowances.](/images/1____my6Xp1Ozr__u0JqK3Li8Pw.png)
 Excerpt from the whitepaper detailing allowances.
 
 This is a much better experience for the user. Traditionally, users are forced to make sacrifices in functionality to gain security or in security to gain functionality — forgoing the greatest benefit of cryptocurrency: control of one’s assets! With TokenCard, **there is no trade-off**. You retain the security and control of a contract wallet whilst gaining the utility of a payments network.
@@ -70,7 +70,7 @@ TKN holders can invoke a mechanism known as ‘Cash and Burn’. Invoking **‘C
 
 As holders burn TKN to receive their share of the underlying, they forgo any claim on future accrued licensing fees. This means remaining TKN holders will now have a **larger proportional claim** on the TKN Asset Contract! In this way, we expect TKN holders to rarely burn — only in the case when the market value of TKN lies below the cumulative value of the underlying assets.
 
-![](images/1__XngohsxSUNjWNU01PAPIRw.png)
+![](/images/1__XngohsxSUNjWNU01PAPIRw.png)
 
 #### **TKN Creation Period**
 

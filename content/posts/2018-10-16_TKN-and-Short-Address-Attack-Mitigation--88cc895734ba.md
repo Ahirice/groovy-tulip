@@ -51,8 +51,8 @@ In order for us to reissue your TKN please send us a signed message (see below f
 
 You can easily create a signed message using My Ether Wallet’s “[**Sign a Message**](https://www.myetherwallet.com/signmsg.html)” tool:
 
-![](images/0__nWzGV2Ypo__LiYuxx.jpg)
-![](images/0__4SL430SSRzt9T5z0.jpg)
+![](/images/0__nWzGV2Ypo__LiYuxx.jpg)
+![](/images/0__4SL430SSRzt9T5z0.jpg)
 
 If you are messaging us regarding a MultiSig Contract, we require that all the owners (or the minimum required number of owners as dictated by the Multisig wallet) also sign a similar message. We’ll then send the new address any stuck TKN.
 

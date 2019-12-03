@@ -28,7 +28,7 @@ The love goes both ways: the Monolith token, TKN, is now listed on Kyber Network
 
 KyberSwap enables convenient and safe token exchanges, straight from the users’ wallet. TKN listing on KyberSwap increases the token’s liquidity and provides a new easy-to-use gateway for users to purchases their first TKN.
 
-![](images/1__t1g6lOBugxNO4eEOioFzpA.png)
+![](/images/1__t1g6lOBugxNO4eEOioFzpA.png)
 
 TKN is a unique type of token: a community token. TKN is the most cost-effective token to top-up Monolith Card. The TKN token is dynamically backed by a basket of growing Ethereum-based currencies thanks to top-ups made on the cards.
 

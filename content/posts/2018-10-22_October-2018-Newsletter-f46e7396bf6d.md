@@ -55,12 +55,12 @@ Some of the TokenTeam will be attending DevCon Prague at the end of this month, 
 
 ### **Office Happenings**
 
-![](images/1__3zW__BqMxFMk8anR2pfczWg.jpeg)
-![](images/1__ycB__IACnbgu550McaZZoSw.jpeg)
+![](/images/1__3zW__BqMxFMk8anR2pfczWg.jpeg)
+![](/images/1__ycB__IACnbgu550McaZZoSw.jpeg)
 
 We had our summer TokenTeam party this past month and we decided to have a friendly competition of Go-Karting! Anthony (Product Manager) came out victorious with our CEO Mel coming in at a close second!
 
-![](images/1__imTfCit__MMede__X1h68SgA.jpeg)
+![](/images/1__imTfCit__MMede__X1h68SgA.jpeg)
 
 Susanna, our Head of HR, celebrated her birthday on 13th October, Mel and Alex also celebrated their birthdays too! Lots of birthdays!!
 

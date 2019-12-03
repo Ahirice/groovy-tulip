@@ -33,7 +33,7 @@ If you’re a TokenWallet Alpha user and have already deployed your Contract Wal
 
 To log in, look out for “import account using seed phrase” — click this and enter your TokenWallet’s seed phrase. Wondering where to find your TokenWallet’s seed? Head to the “More (. . .)” tab in the app and tap “Backup Seed” to reveal it.
 
-![Enter your seed phrase on this screen ⬆️](images/1__Z0jPFjXjnhOtwobyvJ38Pg.jpeg)
+![Enter your seed phrase on this screen ⬆️](/images/1__Z0jPFjXjnhOtwobyvJ38Pg.jpeg)
 Enter your seed phrase on this screen ⬆️
 
 Once you’ve connected your wallet to Metamask, you should be able to see an ETH balance — if you’re wondering why this balance is different to the balance on your TokenWallet, that’s because Metamask reads the Gas Tank’s balance, rather than your Contract Wallet. This is super important, as it means that your funds are better protected should your Gas Tank ever be compromised.
@@ -42,7 +42,7 @@ Go ahead and name your wallet in Metamask — we called ours “TokenCard #1
 
 So you’re set up with Metamask and the TokenWallet — what’s next? We’re going to make use of Etherscan’s “Write Contract” feature to send some ETH!
 
-![Metamask wallet and TokenWallet side-by-side ⬆️](images/1__YcVDNL2qq__J__3ZfyEZzb__A.jpeg)
+![Metamask wallet and TokenWallet side-by-side ⬆️](/images/1__YcVDNL2qq__J__3ZfyEZzb__A.jpeg)
 Metamask wallet and TokenWallet side-by-side ⬆️
 
 ### Getting started with Etherscan
@@ -57,7 +57,7 @@ In the example below, we’re using a newly deployed wallet, so we’ve got a bl
 
 **Write Contract** ᴮᵉᵗᵃ: This is where you’ll be able to execute transactions on your TokenWallet, for example topping up your Gas Tank. We’ll be using this today…
 
-![Viewing your wallet in Etherscan ⬆️](images/1__AncG5XHw5781a5b5DpaVrw.jpeg)
+![Viewing your wallet in Etherscan ⬆️](/images/1__AncG5XHw5781a5b5DpaVrw.jpeg)
 Viewing your wallet in Etherscan ⬆️
 
 ### Send ETH to another wallet
@@ -66,7 +66,7 @@ Let’s get started by sending ETH from our wallet to another wallet! To do this
 
 You’ll need to click “**Connect with Metamask**” in order to authorise transactions (safety first!) — we logged in earlier, so all we need to do is confirm that we’re happy to execute transactions.
 
-![Connecting Etherscan to Metamask ⬆️](images/1__mRu1CayaKRAh6mQPrcoB__A.jpeg)
+![Connecting Etherscan to Metamask ⬆️](/images/1__mRu1CayaKRAh6mQPrcoB__A.jpeg)
 Connecting Etherscan to Metamask ⬆️
 
 From there, head to **Transfer **— this is the name given to sending ETH through your TokenWallet — and fill in the details of your transaction:
@@ -79,7 +79,7 @@ From there, head to **Transfer **— this is the name given to sending ETH t
 
 Once you’ve written in the values of your choice, click “**Write**”, and that’s it! You’ve just sent ETH from one address to another without needing to use your TokenWallet app. Even better, you’ll still be able to see the transaction in the “**Transactions**” tab in the app.
 
-![Writing your first transaction 🎉](images/1__T86jZUPExOhcuRYxSoSX3w.jpeg)
+![Writing your first transaction 🎉](/images/1__T86jZUPExOhcuRYxSoSX3w.jpeg)
 Writing your first transaction 🎉
 
 ### Topping up your Gas Tank
@@ -88,14 +88,14 @@ Now that you’ve sent some ETH, next up is topping up your TokenWallet Gas Tank
 
 In the same way as sending ETH to a wallet, head to the “**Write Contract**” tab on Etherscan, and this time scroll down to **InitializeTopUpLimit**. Enter how much you’d like to top up your Gas Tank in the **\_amount** section (again, in Wei), then confirm this.
 
-![Topping up your Gas Tank ⬆️](images/1__eNILK__QKJ8Iy1V__jl4vCxw.jpeg)
+![Topping up your Gas Tank ⬆️](/images/1__eNILK__QKJ8Iy1V__jl4vCxw.jpeg)
 Topping up your Gas Tank ⬆️
 
 Wait a few seconds for the transaction to go through… and… that’s it!
 
 You’ll be able to see your top-up transaction reflected both in the **Transactions** screen on Etherscan and — if you pull down in the app to refresh — on the actual balance of your Gas Tank in the TokenWallet!
 
-![Your newly updated Gas Tank ⬆️](images/1__LtTGsKJwcm__TKXUixE5HJg.jpeg)
+![Your newly updated Gas Tank ⬆️](/images/1__LtTGsKJwcm__TKXUixE5HJg.jpeg)
 Your newly updated Gas Tank ⬆️
 
 So there you are; just a few ways in which you can interact with your TokenWallet on using tools such as Etherscan and Metamask! Give it a go yourself and let us know what you think on [**Twitter**](https://twitter.com/tokencard_io) and in our official [**Discord**](https://discord.gg/RhxpjpX) server.

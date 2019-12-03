@@ -35,7 +35,7 @@ Other: some people have sent from an exchange. You will need to talk to the exch
 
 _Want to get your hands on TKN regardless!? You can trade them on an exchange:_
 
-![Wauw!](images/1__9NexioDoWykByyi__uz6khA.png)
+![Wauw!](/images/1__9NexioDoWykByyi__uz6khA.png)
 Wauw!
 
 #### Exchanges

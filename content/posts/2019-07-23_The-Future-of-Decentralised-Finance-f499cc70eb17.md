@@ -29,7 +29,7 @@ Finally, the audience’s questions were the occasion to clear a common media-fu
 *   **Arnie Hill** is an ex-political activist. He sees blockchain and cryptocurrencies as the chance to rebuild our financial system from scratch. Far from being an idealist, he highlighted the oxymoron embodied by the cryptocurrency industry: “People **investing** in seeding the destruction of the legacy financial system.” He works with [Obsidian Capital](https://obsidiancapital.fund/), one of the leading incubators exclusively focused on blockchain companies.
 *   **Stani Kulechov** is one of the builders of the Ethereum community. Back in law school, he stumbled upon Ethereum and became fascinated by the possibilities offered by smart contracts. He created a crypto-backed loan service, ETHLend (now [Aave](https://aave.com/)) and quickly found himself dropping out of his studies to focus on it, full time.
 
-![Meet the panel — from left to right: Lex Sokolin, Alex Ryvkin, Stani Kulechov, and Arnie Hill.](images/1__LiCxxghL7uofV__I4axCamQ.jpeg)
+![Meet the panel — from left to right: Lex Sokolin, Alex Ryvkin, Stani Kulechov, and Arnie Hill.](/images/1__LiCxxghL7uofV__I4axCamQ.jpeg)
 Meet the panel — from left to right: Lex Sokolin, Alex Ryvkin, Stani Kulechov, and Arnie Hill.
 
 *   As an ex-banker, **Alex Ryvkin** brought fascinating insights and a bit of balance to the panel. With [Mode](http://www.modeplatform.io/), he thrives on creating an ecosystem of financial services bringing the best of both worlds: traditional finance and DeFi.
@@ -54,7 +54,7 @@ _///_**_Disclaimer_**_: You’ll find below my (Brice from TokenCard) notes from
 
 With DeFi, we have markets that are transparent enough to define the lending rates by themselves. DeFi services and open finance bring more transparency, which translates into more expertise and shared knowledge, making the risk easier to asses. DeFi opens the field to everyone.
 
-![Overview of Aave’s Decentralised Liquidity Pools ([source](https://medium.com/aave/aave-roadmap-extension-introducing-decentralized-lending-pools-dlps-66c3057ecaa7))](images/1__F__8L1IFC2Iulde__mDX0DAw.png)
+![Overview of Aave’s Decentralised Liquidity Pools ([source](https://medium.com/aave/aave-roadmap-extension-introducing-decentralized-lending-pools-dlps-66c3057ecaa7))](/images/1__F__8L1IFC2Iulde__mDX0DAw.png)
 Overview of Aave’s Decentralised Liquidity Pools ([source](https://medium.com/aave/aave-roadmap-extension-introducing-decentralized-lending-pools-dlps-66c3057ecaa7))
 
 #### With DeFi, we are now seeing the emergence of participatory systems, owned by their users. Can this lead to more efficient systems?
@@ -107,7 +107,7 @@ _At this point, I pointed out to Lex that comparing DeFi votes with political vo
 
 It all comes down to game theory: people will get involved in your vote only if they feel like their vote will make a difference, be it statistical or perceived. Think about organ donation systems, for instance — most of the people won’t take action about this, despite the criticality of it. Therefore, **the default in these systems is decisive**. Countries that switched to a default opt-in for organ donations so a significant increase in the participation.
 
-![Overview of the loan originated per month with DeFi services, courtesy of [LoanScan.io](https://loanscan.io)](images/1__BTOfGeczPrXsuG8AN7g__9Q.png)
+![Overview of the loan originated per month with DeFi services, courtesy of [LoanScan.io](https://loanscan.io)](/images/1__BTOfGeczPrXsuG8AN7g__9Q.png)
 Overview of the loan originated per month with DeFi services, courtesy of [LoanScan.io](https://loanscan.io)
 
 #### Since there is voting, how do we protect the systems against abuses?

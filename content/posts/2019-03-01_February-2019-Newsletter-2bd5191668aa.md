@@ -23,7 +23,7 @@ The team are testing the alpha TokenCard cards right now, putting it through its
 
 We’re itching to get TokenCard to our community as soon as possible, bringing the Ethereum economy to the palm of your hand. Over the next week or so, we’ll show you the card in action for the very first time. We’ll also share more info on what TKN will look like during the TokenCard alpha! Stay tuned.
 
-![The team share their cards at TokenCard HQ ⬆️](images/1__TUTx7SZKkieMFWb7nIBO__Q.jpeg)
+![The team share their cards at TokenCard HQ ⬆️](/images/1__TUTx7SZKkieMFWb7nIBO__Q.jpeg)
 The team share their cards at TokenCard HQ ⬆️
 
 #### TokenCard Community Meet-up
@@ -46,12 +46,12 @@ Over the next few months, we’re making it our aim to introduce you — _ou
 
 First up, meet Bertie, our Finance Officer. He’s been with the team since 2017 and ensures that everything runs smoothly, from making sure the team gets paid each month, to forecasting accounts for the road ahead.
 
-![](images/1__Y9BK46u22Z64__EFvEunh6g.jpeg)
+![](/images/1__Y9BK46u22Z64__EFvEunh6g.jpeg)
 
 Earlier this month, we [**revealed our designs for the TokenCard**](https://twitter.com/tokencard_io/status/1093441738469978113) for when we ship to the wider world after our initial 1,000 alpha cards. The Community chipped in with their own designs, and we couldn’t resist sharing them below!
 
 You can view all the community designs on our [**official Discord server**](https://discord.gg/RhxpjpX), too.
 
-![](images/1__bCxyIjWQR6EIdcseeraiTQ.jpeg)
+![](/images/1__bCxyIjWQR6EIdcseeraiTQ.jpeg)
 
 Thanks | Team TokenCard

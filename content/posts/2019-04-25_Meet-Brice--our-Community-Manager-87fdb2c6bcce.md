@@ -66,5 +66,5 @@ However, I also make an effort to keep writing for my own pleasure. You’ll fin
 
 **— 🎮** [**Discord**](https://discordapp.com/invite/RhxpjpX)**| 👽** [**Reddit**](https://www.reddit.com/r/TokenCard/) **| 🐦** [**Twitter**](https://twitter.com/tokencard_io) **| 📜** [**Whitepaper**](https://tokencard.io/tokencard_whitepaper.pdf)**| 🕸️** [**Website**](https://tokencard.io/) **—**
 
-![**Loved it? Say it with claps! It helps spreading our articles.**](images/1__XAVNsFRE6xtMKPxquvQITQ.gif)
+![**Loved it? Say it with claps! It helps spreading our articles.**](/images/1__XAVNsFRE6xtMKPxquvQITQ.gif)
 **Loved it? Say it with claps! It helps spreading our articles.**

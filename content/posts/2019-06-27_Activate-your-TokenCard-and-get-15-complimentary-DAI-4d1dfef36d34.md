@@ -18,7 +18,7 @@ As we move to the next step of our development, we’re putting our ETH where ou
 
 Let’s start with a warm welcome to our users, even those who are discovering us for the first time today: **The first 1,000 users will get an exclusive bonus of $15 worth of DAI once they sign-up and activate their TokenCard**!
 
-![](images/1__AOovM0TXIc8Z386q__3raXg.png)
+![](/images/1__AOovM0TXIc8Z386q__3raXg.png)
 
 [➡️ Get your starter pack for life on Ethereum: **TokenCard 💳 + 15 DAI 💰**.](https://go.tokencard.io/2KG6zYd)
 

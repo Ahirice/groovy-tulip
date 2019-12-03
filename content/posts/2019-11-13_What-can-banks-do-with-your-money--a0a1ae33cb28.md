@@ -55,7 +55,7 @@ Even custodial crypto services can partake: for instance, Coinbase explicitly li
 
 The blocking of cryptocurrency exchanges is thoroughly documented across the web, so let’s do a quick world tour:
 
-![RBI Crypto ban in India](images/0__j5w3jtXp75kf0OnV.jpg)
+![RBI Crypto ban in India](/images/0__j5w3jtXp75kf0OnV.jpg)
 RBI Crypto ban in India
 
 *   [Indians are now threatened](https://twitter.com/DesiCryptoHodlr/status/1082870146685784065) to have their bank account closed if they move money in or out a cryptocurrency exchange service. The first letters announcing the closure of accounts [were sent](https://twitter.com/CryptoRevoltFR/status/1084054866987749377).
@@ -68,7 +68,7 @@ The issue is widespread. We see reports coming from all around the world, includ
 
 This has gotten to the point where the community is now compiling [list of banks](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false) who prevent fiat-to-crypto transactions and the ones that are crypto-friendly:
 
-![[Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)](images/0__bTx4eTBps2qaVIE6.jpg)
+![[Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)](/images/0__bTx4eTBps2qaVIE6.jpg)
 [Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)
 
 So there you have it!   
@@ -96,7 +96,7 @@ It pertains to the yet another highly complex concept — [fractional-reserv
 
 No, what happens instead is this: the amount written in Lloyds’ ledger next to Bob’s name is increased by 10,000, and 10% of the amount bank got from the deposit goes into its reserve. **The remaining can be used for various purposes, including financing other loans, allowing for a circle of intertwined loans**:
 
-![](images/0__2upV__8qshyrNORpo.jpg)
+![](/images/0__2upV__8qshyrNORpo.jpg)
 
 The confidence in the banking system is preserved through the mandatory reserve, **corresponding to a fraction (~10%) of the loaned amount**. It effectively means that if more than 10% of the balances are withdrawn simultaneously (bank run), your bank defaults and your money is gone.
 
@@ -108,7 +108,7 @@ There are some safeguards for this, for instance in Europe the customer bank acc
 
 The 0.1 = 1 absurdity depicted above is more than a mere bank problem: it’s a **system-wide issue.** It has to do with what money even means for those in charge, and the monetary policies enforced.
 
-![[DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE](images/0__XovBGEgZ5hUWwMD8.png)
+![[DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE](/images/0__XovBGEgZ5hUWwMD8.png)
 [DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE
 
 In the long run, the best way to protect your assets might be to simply to pick a currency where this cannot happen. The cool thing with Bitcoin and Ethereum, for instance, is that **1 = 1**: 1 ETH is always worth 1 ETH, and “backed by 1 ETH”.
@@ -131,7 +131,7 @@ The question is so wide that it will be hard to answer systematically. However, 
 
 In the US, the main investment vehicles for households are [employer-sponsored retirement plans](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp). Among them, the all-time star is the [401K plan](https://www.investopedia.com/articles/retirement/08/401k-info.asp).
 
-![](images/0__JeQ437ug__AKm9ZZd.png)
+![](/images/0__JeQ437ug__AKm9ZZd.png)
 
 The subject is immensely complex, which is an issue by itself: [most (63%) Americans don’t understand the intricacies of it](https://www.cnbc.com/2019/03/07/63-percent-of-americans-are-confused-about-401k-retirement-plans.html). Between the fees, which plan to choose, how to time it and many other factors to consider, it quickly turns into a nightmare if you want to dive into this.
 
@@ -167,7 +167,7 @@ To us, the main issue with consumer banks lies with their business model. The pr
 
 **Somehow, banks and the NSA are increasingly sharing a similar assumption**: everybody is a suspect and a potential terrorist/money-launderer, so everybody should be monitored, at all times.
 
-![](images/0__l7azaZl1k9YbL9mO.jpg)
+![](/images/0__l7azaZl1k9YbL9mO.jpg)
 
 We are among the ones who think **life in a global prison is not worth living**.
 

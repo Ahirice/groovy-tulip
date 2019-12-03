@@ -33,7 +33,7 @@ The next step before we invite more community members in is to move from our own
 
 Our CTO, Mischa, took to the stage this week at the Internet of Banking Conference to talk about what we’re building at Token, and why. [**Mel was there to capture the reaction**](https://twitter.com/MelGelderman/status/1065273736524427269), and it seems Mischa stole the show!
 
-![Mischa on-stage at the Internet of Banking Conference](images/1__AYMS__Li0t3ZqbNNZqJePWA.png)
+![Mischa on-stage at the Internet of Banking Conference](/images/1__AYMS__Li0t3ZqbNNZqJePWA.png)
 Mischa on-stage at the Internet of Banking Conference
 
 Next week our Risk and Compliance Director, Ben, is on-stage at the FinTech FinCrime Exchange Conference, discussing how regulation can enable crypto. [**You can grab tickets here →**](https://www.fintrail.co.uk/ffecon-2018)
@@ -42,7 +42,7 @@ Next week our Risk and Compliance Director, Ben, is on-stage at the FinTech FinC
 
 We have a new joiner this month; Alan, our Product Marketing Manager! Alan has three years experience in financial technology, and previously worked at a payments startup, Curve. He’s super excited to join the team, getting to know both the community and the product better. [**Get to know Alan here →**](https://medium.com/tokencard/meet-alan-our-latest-marketing-hire-dacc57953713)
 
-![](images/1__5w0WEk__TnOXa1lHG3bh7Pw.png)
+![](/images/1__5w0WEk__TnOXa1lHG3bh7Pw.png)
 
 We’re still growing, and looking for more talented people to join the team! Check out our open roles below, or head to our [**Careers page**](https://tokencard.workable.com/) for more.
 
@@ -72,7 +72,7 @@ You can catch all the updates elsewhere on our blog. [**What we’re up to →**
 
 Back in October, we mapped out the three major milestones we needed to hit in order to get cards out. This month, we’re happy to announce that we ticked step one off that list: **final sign-off from our card issuer**!
 
-![Mischa, Mel, and Anna celebrate signing @ Devcon IV](images/1__14EjHMckP21OLH2Bo8WmrQ.png)
+![Mischa, Mel, and Anna celebrate signing @ Devcon IV](/images/1__14EjHMckP21OLH2Bo8WmrQ.png)
 Mischa, Mel, and Anna celebrate signing @ Devcon IV
 
 This is a major step for us to get our first batch of cards out, and it’s been great work from all of the team to get the agreements across the line. We talk a little about what this means for Token [**HERE →**](https://medium.com/tokencard/soon-step-1-completed-cc2c22bc699b)

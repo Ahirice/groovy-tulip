@@ -64,7 +64,7 @@ After you have received your card, you should activate your card. Go to the Card
 
 Once your card is activated, you can enable the “Verified by VISA” feature. It enforces an additional validation layer on online payments to protect your card. You will choose a password that will be required to confirm any online purchase.
 
-![Activating the "Verified by VISA" feature](images/1__QglOdlm9bwtuVoBMlSL__XQ.png)
+![Activating the "Verified by VISA" feature](/images/1__QglOdlm9bwtuVoBMlSL__XQ.png)
 Activating the "Verified by VISA" feature
 
 ℹ️ _Please note: Once activated, you will have to fill in randomized specific characters of your password to validate an online payment, for instance characters n° 4, 7 & 10._
@@ -77,7 +77,7 @@ During the alpha phase, you can use ETH, TKN and DAI tokens to settle card trans
 
 #### What are the fees associated with TokenCard Visa Debit Card?
 
-![](images/1__euAHQNk3hpfTfW56LN5S6w.png)
+![](/images/1__euAHQNk3hpfTfW56LN5S6w.png)
 
 #### How do I change my card pin?
 
@@ -103,4 +103,4 @@ Thanks for being among the pioneers of the non-custodial consumer finance moveme
 
 Thanks — Brice on behalf of Team TokenCard
 
-![](images/1__XAVNsFRE6xtMKPxquvQITQ.gif)
+![](/images/1__XAVNsFRE6xtMKPxquvQITQ.gif)

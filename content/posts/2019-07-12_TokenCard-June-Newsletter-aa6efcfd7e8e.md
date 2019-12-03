@@ -22,7 +22,7 @@ Hi Tokenauts! Welcome to our June newsletter — it’s a whopper. This mont
 
 This month we brought life on Ethereum to the App Store! As of now, anyone in the UK and European Economic Area (_that’s 31 countries across Europe_) with an iPhone can download the TokenCard app on iOS ([**_tweet this_**](https://tokencard.us14.list-manage.com/track/click?u=a08825d6fe73df28f11896631&id=9b120f186e&e=c804d3727c)).
 
-![](images/1__s2kPswoRDwfZ7XdAT2a____g.png)
+![](/images/1__s2kPswoRDwfZ7XdAT2a____g.png)
 
 And the good news doesn’t stop there. We’re giving the first **1,000** people to download the TokenCard app and activate their card will get **15 DAI** FREE, sent straight to their TokenCard Wallet. [**Get started here**](https://apps.apple.com/app/tokencard/id1389841315).
 

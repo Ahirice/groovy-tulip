@@ -17,7 +17,7 @@ This month we’ve got a host of exciting updates from Product and Engineering. 
 *   **Expanding the Token Alpha**
 *   **What’s new in the TokenApp**
 
-![[A snapshot of what we’ve been up to in November (ProductPlan)](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](images/1__oFPKDpHqntxRBSzWSpdHZw.png)
+![[A snapshot of what we’ve been up to in November (ProductPlan)](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)](/images/1__oFPKDpHqntxRBSzWSpdHZw.png)
 [A snapshot of what we’ve been up to in November (ProductPlan)](https://app.productplan.com/p/WKmCZlrSDYGGdjB9HtBUJZKA9Cl6PCXD)
 
 ### ⛓ An update on our Smart Contract audit

@@ -33,7 +33,7 @@ The panel was well balanced, with builders from different Ethereum projects:
 *   [Joe Andrews](https://twitter.com/jaosef) is the Product Lead of the leading privacy solutions on Ethereum, the [Aztec Protocol](https://www.aztecprotocol.com/).
 *   [Alex Batlin](https://www.linkedin.com/in/batlin/) is the founder and CEO of [Trustology](https://www.trustology.io/), a custodial wallet solution geared for institutional and high-value investors.
 
-![Ecosystem For Next Generation dApps & What’s Possible on Ethereum Now — at ConsenSys London’s offices](images/1__GMk1yzMD7b9WppwPIVf7AQ.jpeg)
+![Ecosystem For Next Generation dApps & What’s Possible on Ethereum Now — at ConsenSys London’s offices](/images/1__GMk1yzMD7b9WppwPIVf7AQ.jpeg)
 Ecosystem For Next Generation dApps & What’s Possible on Ethereum Now — at ConsenSys London’s offices
 
 ///**Disclaimer**: You’ll find below my (Brice from TokenCard) notes from the event, organised into a few main themes. Keep in mind that this was a panel discussion, and some adjustments were necessary to make it readable. I reached out to each speaker before publishing the article to make sure the content presented here matched their vision.///
@@ -58,7 +58,7 @@ He thinks decentralisation matters to avoid arbitrary central control (as we can
 
 As an ex-lobbyist now working on Alice, a solution using blockchain to bring more transparency to social funding, Raphael holds a practical and exciting take on trust in the context of solidarity.
 
-![[Alice](https://alice.si/)](images/1__xc4h1r1lqQtWT6OBb1tKog.png)
+![[Alice](https://alice.si/)](/images/1__xc4h1r1lqQtWT6OBb1tKog.png)
 [Alice](https://alice.si/)
 
 He presented Alice’s solution to solve the issue of the lack of trust in Non-governmental Organisations (NGO)s: **how to achieve complete transparency when collecting donations and realising projects?**
@@ -80,7 +80,7 @@ Rather than nurturing trust, can we simply abstract it? Through his experience w
 
 > Regulations are here to ensure the absence of systemic risk for society.
 
-![[TokenCard](http://tokencard.io)](images/1__N__FypNtfHizWhru7n7pFZw.png)
+![[TokenCard](http://tokencard.io)](/images/1__N__FypNtfHizWhru7n7pFZw.png)
 [TokenCard](http://tokencard.io)
 
 While developing a trustless service comes with additional complexity, it also provides several unique benefits:
@@ -100,7 +100,7 @@ Indeed, the transparency of Ethereum’s blockchain is welcome when it’s used 
 
 Do you simply accept that your employers and your colleagues will be able to see what you do with it? What about the people you transact with, in your daily usage of Ethereum? Are you comfortable sharing your whole transaction history with them?
 
-![[Aztec Protocol](https://www.aztecprotocol.com/)](images/1__VwfwPChd52uu7a8HlPcVXA.png)
+![[Aztec Protocol](https://www.aztecprotocol.com/)](/images/1__VwfwPChd52uu7a8HlPcVXA.png)
 [Aztec Protocol](https://www.aztecprotocol.com/)
 
 Aztec provides a solution to address these issues. The protocol offers an implementation of zero-knowledge transactions along with stealth addresses to provide full anonymity on Ethereum. It can be used to create confidential representations (called “notes”) of existing digital assets.
@@ -129,7 +129,7 @@ However, as seen before, Ethereum’s usability issue is dual:
 1.  We need a quick, convenient and easy way to onboard users on dApps.
 2.  We also need a streamlined onboarding for dApp developers who have to deal with both their users UX issues and their dApp scalability problem.
 
-![[SKALE Labs](https://skalelabs.com/)](images/1__A1PWvssjo8tvfXEjewlDyA.png)
+![[SKALE Labs](https://skalelabs.com/)](/images/1__A1PWvssjo8tvfXEjewlDyA.png)
 [SKALE Labs](https://skalelabs.com/)
 
 To ease scaling up a dApp, SKALE Network, a layer-2 solution, provides developers with sidechains that are fully decentralized, have high throughput, and are configurable to the needs of the dApp. Importantly — SKALE is very easy to deploy to and allows to scale smart contracts, run decentralized on-chain storage, and much more.
@@ -138,7 +138,7 @@ To ease scaling up a dApp, SKALE Network, a layer-2 solution, provides developer
 
 To conclude, let’s go back to the chronology of our event. The last question addressed to the panel was about B2B — an audience member wanted to know the potential of blockchain in that setting, and the current usages. Since Trustology was the most B2B-focused company in the panel, Alex tackled this one and provided yet another insightful perspective.
 
-![[Trustology](https://www.trustology.io/)](images/1__h6jqkD__fE5zYRaIko__DRCw.png)
+![[Trustology](https://www.trustology.io/)](/images/1__h6jqkD__fE5zYRaIko__DRCw.png)
 [Trustology](https://www.trustology.io/)
 
 He thinks that **DLTs excel at minimising/eliminating the trust required by different participants to transact and work with one another**.  With that in mind, he sees massive potential for DLTs in the international trade settlement as it provides an elegant solution to the problem of trust between geographically disparate corporates.

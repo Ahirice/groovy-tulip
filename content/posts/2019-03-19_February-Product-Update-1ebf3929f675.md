@@ -33,7 +33,7 @@ This is a significant effort from the Product and Engineering team, and puts in 
 
 Want to take a deep dive under the hood of our source code? [**Check it out on Ethersca**](https://etherscan.io/address/0x5c76fb5fb117d190beac217bc3568e70f2b6b71d#code)**n**
 
-![](images/1__hvPHZ3FRolO4LC3u1M0dng.gif)
+![](/images/1__hvPHZ3FRolO4LC3u1M0dng.gif)
 
 #### **TokenCard green cards: staff testing**
 
@@ -41,8 +41,8 @@ This month we were excited to announce that the first TokenCard alpha green card
 
 We’ve been doing extensive testing on the card and applying tweaks and fixes as we go to ensure it’s safe and secure before we send it out externally. We’ll put together a short blog in the coming weeks to run you through the types of tests we’ve been doing, and some tips for how you can get involved too.
 
-![From making your not-so-everyday coffee purchase…](images/1__nkmko3jPgOSiKOGmoVw6LA.png)
-From making your not-so-everyday coffee purchase…![…To ATMs. From ETH, to GBP, to paper cash — in minutes.](images/1__RpkJKxBF8gX1ucoGcWVebw.gif)
+![From making your not-so-everyday coffee purchase…](/images/1__nkmko3jPgOSiKOGmoVw6LA.png)
+From making your not-so-everyday coffee purchase…![…To ATMs. From ETH, to GBP, to paper cash — in minutes.](/images/1__RpkJKxBF8gX1ucoGcWVebw.gif)
 …To ATMs. From ETH, to GBP, to paper cash — in minutes.
 
 We’re excited to open the doors of the TokenCard alpha to our community. Keep your eyes peeled on your inbox and [**@tokencard\_io**](https://twitter.com/tokencard_io) for updates.

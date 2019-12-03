@@ -23,7 +23,7 @@ I’ve been working in Marketing for a little over three years, _all_ of that be
 
 Before taking on the role at Token, I worked at Curve, a financial technology startup. I joined Curve back in 2015, and learned _a lot_ during my time there — working on a range of things from PR & Comms, all the way to User Experience Research and Design (and every conceivable marketing activity between).
 
-![Alan with the Token² approach to branding.](images/1__5IYkaG9fi1mtz8t3KLimUQ.png)
+![Alan with the Token² approach to branding.](/images/1__5IYkaG9fi1mtz8t3KLimUQ.png)
 Alan with the Token² approach to branding.
 
 When I started at Curve as an intern, the team was eight people and hadn’t yet launched the product. When I left as Product Marketing Manager, the team was over fifty people, and had grown to over 175,000 sign-ups. I’m excited to now bring the skills I’ve learned along the way to Token!

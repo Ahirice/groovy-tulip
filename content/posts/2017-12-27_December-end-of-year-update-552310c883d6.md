@@ -54,13 +54,13 @@ We understand many members of the community will be disappointed — believe
 
 **New joiners to the team:**
 
-![](images/0__LEGUfTgj__T6FECVz.png)
+![](/images/0__LEGUfTgj__T6FECVz.png)
 
 **John Humpish**
 
 John is joining to give us some much-needed help with our marketing efforts. John’s background has spanned both early stage start-ups and multinational organizations, where he led marketing efforts globally at Zurich, Deutsche Bank and AXA. John sees significant potential in the Token proposition — for both the crypto community and the broader marketplace, and embraces the challenge of bringing Token to the masses.
 
-![](images/0__LmGU1zTP__kkffEpR.jpg)
+![](/images/0__LmGU1zTP__kkffEpR.jpg)
 
 Ben Whitby
 
@@ -70,10 +70,10 @@ Ben comes on board to lead our compliance function and brings with him an extens
 
 This year we’ve been heads down building a solid team and product foundation, next year we know we need to tighten up our communications. As part of this, to give you better insight into life at Token, we’ve been filming a short ‘behind the scenes’ video series — look out for the first episode in January! We’re still continuing the search for an excellent community manager — if you know someone who could fit the bill, please do share details in the forum.
 
-![](images/0__U1tlpYf8VuhHTbSn.jpg)
-![](images/0__PWVbQgRwNIMfOPdL.jpg)
-![](images/0__gZehZv64cqBsSSRz.jpg)
-![](images/0__hsCAqSsS6kR3TIPm.jpg)
+![](/images/0__U1tlpYf8VuhHTbSn.jpg)
+![](/images/0__PWVbQgRwNIMfOPdL.jpg)
+![](/images/0__gZehZv64cqBsSSRz.jpg)
+![](/images/0__hsCAqSsS6kR3TIPm.jpg)
 
 We’ll update you again in January and will hopefully share positive news regarding the recent challenges. Until then, we wish all of our community a wonderful festive season.
 

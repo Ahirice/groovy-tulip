@@ -42,7 +42,7 @@ If you tick all the boxes above, read below for how to get started. Want to get 
 
 What are you waiting for? [**Get started**](http://tokencard.io/alpha).
 
-![_TestFlight (left) and registering your interest for the TokenCard (right)_!](images/1__sVj1zUOJrYfMumsvUj__EJw.jpeg)
+![_TestFlight (left) and registering your interest for the TokenCard (right)_!](/images/1__sVj1zUOJrYfMumsvUj__EJw.jpeg)
 _TestFlight (left) and registering your interest for the TokenCard (right)_!
 
 #### I’m not a Crowdsale contributor, what do I do?

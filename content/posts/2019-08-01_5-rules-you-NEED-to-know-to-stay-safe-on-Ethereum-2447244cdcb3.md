@@ -38,7 +38,7 @@ The development of blockchain-based systems has brought with it exciting promise
 
 Here’s an overview of the main DeFi services, ranked by value locked in their contracts:
 
-![[https://defipulse.com/](https://defipulse.com/)](images/0__5OD4iWPikm8bf6An.jpg)
+![[https://defipulse.com/](https://defipulse.com/)](/images/0__5OD4iWPikm8bf6An.jpg)
 [https://defipulse.com/](https://defipulse.com/)
 
 However, despite the development and growth of these decentralised finance services, sometimes known as “DeFi”, most of us are not reaping the benefits of decentralization: many still interact with crypto assets through a third party that holds their funds for them. This translates into [countless hacks and loss of funds](https://coinsutra.com/biggest-bitcoin-hacks/) — so much so that by the end of 2018, the total value of the assets lost because of hacks has been [estimated at $1.5B.](https://www.coindesk.com/2018-a-record-breaking-year-for-crypto-exchange-hacks)
@@ -49,7 +49,7 @@ Sounds good, but what is a Seed Phrase, exactly? Well…
 
 ### 2️⃣ Rule #2a | Understand your seed phrase. Learn your seed phrase.
 
-![](images/1__xk7Y76ldEfZFaqWEKgr7hw.png)
+![](/images/1__xk7Y76ldEfZFaqWEKgr7hw.png)
 
 Your seed phrase is what governs your wallet. If you use a standard wallet, anyone who has access to it can instantly transfer all your assets to another address outside your control — so your seed is a pretty big deal. This means that it’s more important than ever to keep it safe and secure.
 
@@ -106,7 +106,7 @@ People will use this to send you assets, for example. For Ethereum, the address 
 
 Just like for internet addresses (IP vs domain name), there is now a service to make addresses more memorable: [Ethereum Name Service — ENS](https://ens.domains/).
 
-![Example address on [ENS](https://ens.domains/).](images/0__8atFN7UKPaV2p6k0.jpg)
+![Example address on [ENS](https://ens.domains/).](/images/0__8atFN7UKPaV2p6k0.jpg)
 Example address on [ENS](https://ens.domains/).
 
 **Please keep in mind that all the information stored on the Ethereum blockchain lives publicly**. If you send money to someone, they will be able to see your wallet status, such as the assets you own and your previous transactions. Anyone who has access to your wallet address can get this information. If privacy is a necessity to you, please look into dedicated solutions.
@@ -131,7 +131,7 @@ Since all the information on the Ethereum blockchain is public, you can use a se
 
 With Etherscan, you can search for any public address to access the history of its transactions. You can also work the other way around, using the txid — the unique identifier attributed to each transaction:
 
-![Overview of an Ethereum EOA using [Etherscan](https://etherscan.io/)](images/0__Iecs40ljv4cBbRV7.jpg)
+![Overview of an Ethereum EOA using [Etherscan](https://etherscan.io/)](/images/0__Iecs40ljv4cBbRV7.jpg)
 Overview of an Ethereum EOA using [Etherscan](https://etherscan.io/)
 
 Etherscan displays transactions in two main tabs:
@@ -153,7 +153,7 @@ _ℹ️ For the sake of simplicity, we focused on the Ethereum blockchain. Howev
 
 Finally, since the whole network is public and open, you can also visualize the activity of the whole network thanks to service like [EthStats](https://ethstats.net/)  or [EthViewer](http://ethviewer.live/). If you would like a more visually compelling representation, check out [CryptoLights](http://www.cryptolights.info/):
 
-![[CryptoLights](http://www.cryptolights.info/)](images/0__1qbyEPkOynkASTzi.jpg)
+![[CryptoLights](http://www.cryptolights.info/)](/images/0__1qbyEPkOynkASTzi.jpg)
 [CryptoLights](http://www.cryptolights.info/)
 
 ### 5️⃣ Rule #5 | Paying for the commons
@@ -173,7 +173,7 @@ Two parameters govern the gas cost of transactions and are required to process a
 
 You can determine the transaction cost yourself, depending on the urgency of it. A service like [ETH Gas Station](https://ethgasstation.info/) will help you figure out the best price for your needs. However, most wallet usually offers default options to handle that for you and that’s probably the best and safest route if you’re not sure about what you are doing.
 
-![[ETH Gas Station](https://ethgasstation.info/)](images/1__9NXyQgPke0RG__w__X3kGNXw.png)
+![[ETH Gas Station](https://ethgasstation.info/)](/images/1__9NXyQgPke0RG__w__X3kGNXw.png)
 [ETH Gas Station](https://ethgasstation.info/)
 
 Don’t worry too much about overspending gas though! **You are only charged for the gas you consume**: it’s both safe and useful to send transactions with a gas limit well above the estimates.

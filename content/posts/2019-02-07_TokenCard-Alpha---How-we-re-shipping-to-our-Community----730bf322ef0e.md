@@ -40,7 +40,7 @@ We’ll have a dedicated channel on Discord where we’ll manage communications 
 
 The first 1,000 cards will be limited to the UK and EEA. Wondering _what_ exactly the EEA is? [**Here’s quick reference**](https://www.gov.uk/eu-eea).
 
-![Spot your country here!! ⬆️](images/1__jEfwzlaDvuNSIyExQ9jztQ.png)
+![Spot your country here!! ⬆️](/images/1__jEfwzlaDvuNSIyExQ9jztQ.png)
 Spot your country here!! ⬆️
 
 We’ll know your location for shipping once you have gone through the card order process and completed KYC (Know Your Customer)!

@@ -22,7 +22,7 @@ It was a busy summer! 🌞
 
 This post details our experiences in launching a Blockchain native wallet on top of the Android platform.
 
-![](images/0__JwC4AVBc8y0qfSCq.jpg)
+![](/images/0__JwC4AVBc8y0qfSCq.jpg)
 
 #### **First Some Background ✅**
 
@@ -32,7 +32,7 @@ This means that in order to deliver a great User Experience (UX), we have to ena
 
 Monolith was conceived back in 2016 by our founders, Mel and David. After acquiring the appropriate licenses and partnerships, we set out to build what we thought the bank of the future should look like.
 
-![](images/0__M__tNhcLR__vU72g5n.jpg)
+![](/images/0__M__tNhcLR__vU72g5n.jpg)
 
 #### **Launching on iOS first 📲**
 
@@ -42,7 +42,7 @@ We built our application in a cross-platform way using react-native. Our User In
 
 We launched our invite-only iOS closed alpha in March, and [publicly on the App Store](https://apps.apple.com/gb/app/monolith-ethereum-wallet/id1389841315) in June. Our time exclusively on iOS helped us really nail down what a good onboarding experience feels like for our product and hammer out the kinks of interacting with something as nuanced as the Ethereum network.
 
-![](images/0__mgEKI36lruqawcUU.jpg)
+![](/images/0__mgEKI36lruqawcUU.jpg)
 
 #### **Creation of the Android squad 💪**
 
@@ -50,7 +50,7 @@ We launched our invite-only iOS closed alpha in March, and [publicly on the App 
 
 Given the [diverse Android landscape](https://developer.android.com/about/dashboards), we got a team together and we defined our goal:
 
-![](images/0__yy90__1ERA4QIfuPe.jpg)
+![](/images/0__yy90__1ERA4QIfuPe.jpg)
 
 #### **Demystifying the Android landscape 🌪**
 
@@ -63,7 +63,7 @@ A key assumption in our security model is that customer keys are securely stored
 
 So we got busy researching and prototyping:
 
-![](images/0__s0pPhot8MRRyHBZa.jpg)
+![](/images/0__s0pPhot8MRRyHBZa.jpg)
 
 Given our findings, the minimum OS level that we were comfortable with supporting was [Android Nougat](https://en.wikipedia.org/wiki/Android_Nougat) (API 24) as it introduced unified support for the Keystore interface in a manner that ensures that users don’t accidentally remove their private key whilst messing around with their biometrics.
 
@@ -71,7 +71,7 @@ Given our findings, the minimum OS level that we were comfortable with supportin
 
 To get this answered we had a look through the Google Analytics data for our website. We then manually researched the minimum OS level available for Android for each device.
 
-![](images/0__0dmezN__payI5mysJ.jpg)
+![](/images/0__0dmezN__payI5mysJ.jpg)
 
 From this, we concluded that even though the global distribution dashboards estimated that only 58% of global users had Android Nougat or higher, with mostly European-based users, the number was closer to 85%. We also understood that this was going to get better over time, and we didn’t want to compromise on security.
 
@@ -83,20 +83,20 @@ As soon as July came around, we had a basic version and asked our team members t
 
 Mel, our founder was demoing a (partially broken!) internal Android app on our [summer livestream on July the 10th](https://twitter.com/i/broadcasts/1OwGWkkAXwMGQ).
 
-![](images/0__HRpE7dF2FbymA1aW.jpg)
+![](/images/0__HRpE7dF2FbymA1aW.jpg)
 
 This phase of development actually took a bit longer than expected. It turned out that our app looked inconsistent on a couple of devices. Once we were confident with the security aspect of things, we released the app as a beta app to 100 community members in August.
 
 We relied on [Instabug](https://instabug.com) and [Discord](https://discordapp.com/invite/BBtta3H?source=post_page---------------------------) to have meaningful conversations with our customers. Over the summer, product managers at Monolith personally responded to most customer messages, bug reports and suggestions! 😊
 
-![](images/0__8fpxkLr0cl4nFZVF.jpg)
-![](images/0__HvG5wpULcPZeK3sL.jpg)
+![](/images/0__8fpxkLr0cl4nFZVF.jpg)
+![](/images/0__HvG5wpULcPZeK3sL.jpg)
 
 Two months and 5 Android app iterations later, we were ready to launch!
 
 #### **Sweet Victory ❤**
 
-![](images/0__arFd7DZNNZ__bYqEM.jpg)
+![](/images/0__arFd7DZNNZ__bYqEM.jpg)
 
 As a team, we’ve gone through a lot to get here, but it’s clear that this is just the beginning. We’ll keep iterating on our product as we strive to understand our customers, and how they use our Wallet and Card in the real world. 🙏
 
@@ -104,7 +104,7 @@ Our goal is to one day be able to confidently ask them to close their bank accou
 
 We want to thank everyone who has supported us on this journey. 🎉
 
-![](images/0__Lf2__865R0oYBGeT3.jpg)
+![](/images/0__Lf2__865R0oYBGeT3.jpg)
 
 ### **Summary**
 

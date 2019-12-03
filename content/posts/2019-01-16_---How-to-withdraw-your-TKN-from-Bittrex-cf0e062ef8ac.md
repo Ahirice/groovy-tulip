@@ -19,23 +19,23 @@ The above means that if you have TKN stored on Bittrex, **you will need to withd
 
 **Step two**: To withdraw your funds, you’ll need to press the red ‘**Withdraw**’ icon.
 
-![](images/1__Nty2UtijT7d9n2adwFAdvA.png)
+![](/images/1__Nty2UtijT7d9n2adwFAdvA.png)
 
 Please note that in order to withdraw your TKN, you’ll need a wallet that can store TKN. In this case, we’ll be using [Cipher](https://itunes.apple.com/us/app/cipher-browser-ethereum/id1294572970?mt=8), although you could use a number of other wallets depending on whether you’re on desktop or mobile. For desktop users, you could also use [MEW](https://www.myetherwallet.com/), for example. 🔌 Once our TokenWallet is live in the world, you would of course be using that — if you want a sneak peek, get involved in the TokenAlpha by [signing up here](http://eepurl.com/ga21Yn)!
 
 **Step three**: If you’re using Cipher, tap ‘**Receive**’ to load up your wallet address to send your TKN to. Please note that you’ll need to add TKN to your list of tokens — to do this, tap ‘**Add Tokens**’ and select ‘**TokenCard Monolith**’.
 
-![](images/1__taKBdFeuzGrdn1aU6Eizuw.png)
+![](/images/1__taKBdFeuzGrdn1aU6Eizuw.png)
 
 **Step four**: Copy your wallet address from Cipher and paste it into the Withdrawal screen on Bittrex (tap the red icon on desktop to bring up this screen).
 
 **Step five**: Select the amount of TKN you’d like to transfer from Bittrex to your wallet. **Please be sure to withdraw all your TKN, as you will not be able to access it after January 30th**. Tap ‘**Available: _n_TKN** ’ to instantly add the maximum balance available in your wallet.
 
-![](images/1__nPm62JphQgYb9Z__WvBKwKA.png)
+![](/images/1__nPm62JphQgYb9Z__WvBKwKA.png)
 
 **Step six**: Confirm your selection by clicking “**Withdraw TKN**” on Bittrex — you’ll need to confirm your transaction via an automated email for security purposes, and then you’re good to go!
 
-![](images/1__ONRFtPbeyR43zjFTL1LWlA.png)
+![](/images/1__ONRFtPbeyR43zjFTL1LWlA.png)
 
 Once the transaction has gone through (this can take a few minutes), you’ll be able to see your updated TKN balance in your wallet of choice. Be sure to check your Bittrex TKN balance to ensure that you have withdrawn **all** your funds.
 

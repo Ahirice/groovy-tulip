@@ -28,7 +28,7 @@ Want to get your hands on TokenCard? All you need is an iPhone and to be a resid
 
 #### Mischa on “The Bank of Tomorrow” ⛓
 
-![](images/1__0cmgOUyAyPUA5uhkcuS3kg.png)
+![](/images/1__0cmgOUyAyPUA5uhkcuS3kg.png)
 
 We believe that the business of consumer banking is in direct conflict with consumer interests. The profit made by consumer banks from consumer deposits is redirected away from the consumers to the bank’s benefit. This is broken.
 

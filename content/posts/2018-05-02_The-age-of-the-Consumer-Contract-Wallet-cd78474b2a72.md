@@ -51,7 +51,7 @@ Finally, custodial wallets undermine the point of cryptocurrency to little benef
 
 > Quite simply put, crypto users will experience that “what if” sense of paranoia you get thinking about your funds just sitting there on an address or on an exchange. Over the years I’ve felt it more times than I dare mention. One day you might log in and it could all be gone; somewhere something might have gone wrong. Profound change is needed.
 
-![Upcoming London Underground release](images/1__Xcyx96Br4emBaf6QwUyxfA.png)
+![Upcoming London Underground release](/images/1__Xcyx96Br4emBaf6QwUyxfA.png)
 Upcoming London Underground release
 
 ### Token Wallet: The First Consumer Contract Wallet
@@ -69,7 +69,7 @@ The Token Wallet is the first of what we call Consumer Contract Wallets for the 
 5.  Retain actual usability of funds (not locked up and practically inaccessible)
 6.  To do all of the above from within a consumer grade mobile UI
 
-![Part of the whitelisting process. First image shows the bottom of the main view with a smart contract security overview. (Images are of a pre-release version and are unbranded)](images/1__ZRJwzx9DrheMyVp__4r95hA.png)
+![Part of the whitelisting process. First image shows the bottom of the main view with a smart contract security overview. (Images are of a pre-release version and are unbranded)](/images/1__ZRJwzx9DrheMyVp__4r95hA.png)
 Part of the whitelisting process. First image shows the bottom of the main view with a smart contract security overview. (Images are of a pre-release version and are unbranded)
 
 ### **v0.1 high level spec**
@@ -100,7 +100,7 @@ Dramatic loss was prevented and Alice learnt a fair lesson, she creates a new se
 
 > **We believe that purest technical solution and the most intuitive user experience are not mutually exclusive.** _At Token we strive to benefit the layman as well as the veteran hardened crypto nuts (like ourselves). We are excited to announce the Token Wallet and we can’t wait to put it in your hands so that you can help us iterate towards building the foundations for the future of crypto._
 
-![Let’s hunt some bugs..](images/1__Y9eq20Al3fa1grqyvqZMgA.png)
+![Let’s hunt some bugs..](/images/1__Y9eq20Al3fa1grqyvqZMgA.png)
 Let’s hunt some bugs..
 
 #### Practical notes:

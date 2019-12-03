@@ -27,7 +27,7 @@ Just a few of the things we’re testing at this stage include:
 
 Once we’ve wrapped up this round of testing, the next step is the Community release, where we’ll be sending out unbranded Alpha cards (fortunately they’ll still be **green**)! We’ll be posting an update on our blog with more details on who we’ll be shipping to, and where — for now, here’s a first look at how TokenCards will be arriving at your door for the first 1,000 cards.
 
-![](images/1__gJXPM8oDLzBfwGOASlDm8w.png)
+![](/images/1__gJXPM8oDLzBfwGOASlDm8w.png)
 
 ### Building out our Bug Bounty
 

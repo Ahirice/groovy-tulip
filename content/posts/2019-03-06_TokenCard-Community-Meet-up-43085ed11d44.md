@@ -52,11 +52,11 @@ We’ll be hosting our event on [**Kickback**](https://kickback.events/event/0x5
 
 Let’s put some skin in the game. [**Get your tickets for the meet-up today**](https://kickback.events/event/0x5bdb6c02ed135f9182241912b69efd76b6859892)!
 
-![](images/1__0cLvZldq2RTGoGaEUbG2tQ.jpeg)
-![](images/1__45JBmRcbvI7xPpDxSVmQCQ.jpeg)
+![](/images/1__0cLvZldq2RTGoGaEUbG2tQ.jpeg)
+![](/images/1__45JBmRcbvI7xPpDxSVmQCQ.jpeg)
 
-![](images/1__OdfoAlg9mslUTV8zZHos__g.jpeg)
-![The venue for the evening — TT Liquor ⬆️](images/1__9kdaHcXbWqUZySKGsOw27Q.jpeg)
+![](/images/1__OdfoAlg9mslUTV8zZHos__g.jpeg)
+![The venue for the evening — TT Liquor ⬆️](/images/1__9kdaHcXbWqUZySKGsOw27Q.jpeg)
 The venue for the evening — TT Liquor ⬆️
 
 ### Getting to the venue

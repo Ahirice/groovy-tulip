@@ -23,10 +23,10 @@ On 2 October, the Token team hosted members of the community at a bar on the 39t
    
 We were delighted to finally introduce our wider team to some of our contributors and have an opportunity to answer their questions. Many asked us insightful questions on our product, and it was great to see members of the community getting to know each other and sharing their own stories. Here are a few pictures from the day:
 
-![](images/1__H3K1oOes3CnVKIYh4A2XFw.png)
+![](/images/1__H3K1oOes3CnVKIYh4A2XFw.png)
 
-![](images/1__AVvRqf__ReMUXc9RUqg6l6w.png)
-![](images/1__7HgkAUtNfOW083ogX9MilQ.png)
+![](/images/1__AVvRqf__ReMUXc9RUqg6l6w.png)
+![](/images/1__7HgkAUtNfOW083ogX9MilQ.png)
 
 **UPDATE ON DEVELOPMENT**
 

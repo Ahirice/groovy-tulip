@@ -17,7 +17,7 @@ As a firm building in the crypto space we face lots of hurdles; primarily the hi
 
 Market education and clarity on the regulatory obligations will help speed cryptos journey to an accepted asset class, unfortunately this takes time. If you’re reading this, then you are on the cutting edge, the world still needs to catch up to you. I’m sure you remember where and when you went down the crypto rabbit hole, for many these early exposures are yet to come, and there is much to cover before we even discuss the complexities of decentralised assets and the importance of private keys. Regulation will smooth the path of what is important to help protect people and society. It’s coming, albeit slowly for now.
 
-![](images/1__ZGuapvqtqB__HLGytH5F9lw.jpeg)
+![](/images/1__ZGuapvqtqB__HLGytH5F9lw.jpeg)
 
 ### But why regulate? We’re happy with the way things are.
 
@@ -39,7 +39,7 @@ Regulatory coverage consists of three main areas.
 
 _Q1 2018 — “The FSB agreed that crypto-assets do not pose a material risk to global financial stability at this time, but supported vigilant monitoring in light of the speed of developments and data gaps.”_
 
-![](images/1__LDlIEIH9pIHXqR__EtZ3wRg.jpeg)
+![](/images/1__LDlIEIH9pIHXqR__EtZ3wRg.jpeg)
 
 ### How can regulations influence activity?
 
@@ -67,7 +67,7 @@ AMLD5 also obligises traditional financial service platforms to freeze the asset
 
 With respect to the broader regulatory landscape, discussing AML is just scratching the surface, there are obligations relating to sanctions, bribery, corruption, GDPR and we expect conduct rules to follow on topics such as market abuse, insider trading and some sort of client appropriateness checks to become mandatory in future. We will continue to address these topics as they develop and adopt them for our decentralised model where we feel it’s right to.
 
-![](images/1__xGMl8gP0E8ssx__mweswYQA.jpeg)
+![](/images/1__xGMl8gP0E8ssx__mweswYQA.jpeg)
 
 ### Where does this leave the crypto industry in terms of regulatory next steps?
 

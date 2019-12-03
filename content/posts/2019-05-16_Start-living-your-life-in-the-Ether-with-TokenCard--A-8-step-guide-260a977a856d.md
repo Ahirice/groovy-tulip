@@ -41,7 +41,7 @@ Once you have the app, there are a few more steps required to ensure the safety 
 
 ⚠️ Depending on your device model, you might be using either FaceID, your fingerprints or a PIN code to authenticate. Your TokenCard PIN code is completely unrelated to your device PIN. However, you will need device-level authentication to validate transactions.
 
-![Securing your TokenCard Contract Wallet](images/1__VF45JEidEU0__P6QoNfDdsw.gif)
+![Securing your TokenCard Contract Wallet](/images/1__VF45JEidEU0__P6QoNfDdsw.gif)
 Securing your TokenCard Contract Wallet
 
 ⚠️**SECURING YOUR SEED IS CRITICAL**⚠️
@@ -62,7 +62,7 @@ Next up, deploy your Contract Wallet. The Contract Wallet governs your whole rel
 
 Now here’s the coolest part: **with just one tap, you will deploy your own instance of the Smart Contract Wallet.** Nobody else but you has access or control over it.
 
-![Deploying your own instance of the Contract Wallet in a tap](images/1__ZRvdZFVobMr0vi051B3vCg.gif)
+![Deploying your own instance of the Contract Wallet in a tap](/images/1__ZRvdZFVobMr0vi051B3vCg.gif)
 Deploying your own instance of the Contract Wallet in a tap
 
 ### Verification steps
@@ -96,7 +96,7 @@ While ordering your card, you can decide the base currency it will be using: GDP
 
 Fast forward a few days (we’re living the life on Ethereum, but your postal service isn’t… yet): [your card has arrived](https://twitter.com/BBerdah/status/1124647104566169600)! Take a moment to let it sink in, then share the good news on your networks (remember to hide your PAN, just for safety).
 
-![Activating your card](images/1__RIHYGPt9ifLzQWLXmEuOmg.png)
+![Activating your card](/images/1__RIHYGPt9ifLzQWLXmEuOmg.png)
 Activating your card
 
 You won’t be able to use your card until you’ve activated it in the TokenCard App. Head back to the Card (‘💳’) section, and type in the last 4 digits of your card’s PAN to activate.
@@ -113,14 +113,14 @@ If you haven’t sent funds to your wallet yet, now is a good time! Tap “Recei
 
 Once you have some ETH in your contract wallet, **don’t forget to top up your gas tank.** You will need gas to top up your card, as all transactions in the TokenCard app happen on-chain.
 
-![Topping up your gas tank](images/1__MQZ4__giX__qoRjS7A2JUnuw.gif)
+![Topping up your gas tank](/images/1__MQZ4__giX__qoRjS7A2JUnuw.gif)
 Topping up your gas tank
 
 **Topping up your debit card**
 
 With some funds in your wallet and gas in your tank, you can now top-up — sell some cryptocurrencies for fiat — so that you’re ready to spend:
 
-![Topping up your card](images/1__oTR2CntSmUtpVLOGdfctyQ.gif)
+![Topping up your card](/images/1__oTR2CntSmUtpVLOGdfctyQ.gif)
 Topping up your card
 
 _ℹ️ Top-ups involve on-chain transactions requiring 3 confirmations. At the current state of the Ethereum network, it means the top-up transaction takes up to 90s to be visible in the app._
@@ -129,7 +129,7 @@ _ℹ️ Top-ups involve on-chain transactions requiring 3 confirmations. At the 
 
 Your card supports any payment system you’re used to. Your first purchase must be Chip and PIN, but after that, it’s however you like to spend — in-store, online, Contactless, ATM. If you’re left wondering what your PIN is, here’s how to find it:
 
-![View your card PIN with the TokenCard App](images/1__qUh8L5X__0ZA__eK0HyDPyRA.png)
+![View your card PIN with the TokenCard App](/images/1__qUh8L5X__0ZA__eK0HyDPyRA.png)
 View your card PIN with the TokenCard App
 
 ⚠️ **TokenCard is still in an early testing phase. If you encounter any bugs or find your experience confusing, feel free to initiate a report. It’s easy, simply shake your phone to get started.**

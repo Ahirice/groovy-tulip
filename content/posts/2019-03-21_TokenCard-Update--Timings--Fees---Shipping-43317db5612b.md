@@ -41,7 +41,7 @@ At TokenCard we’re committed to being transparent on fees and being customer-f
 *   **Using the card abroad** | When spending in-store and online in a non-domestic currency (e.g. spending in EUR with your GBP TokenCard), every purchase will carry a 1.75% charge on top of the payment amount, which is calculated according to the [**Visa exchange rate**](http://www.visaeurope.com/making-payments/exchange-rates).
 *   **Spending Limits** | As with most cards, your TokenCard will have some spending limits in place — these are to protect you in the event that your card is compromised. The limits range from _Daily_ (midnight to midnight), to _Yearly_ (per 365 day period).
 
-![Spending Limits currently enforced on TokenCards](images/1__Qolk7UeQjRN1a5B__pZRb__A.png)
+![Spending Limits currently enforced on TokenCards](/images/1__Qolk7UeQjRN1a5B__pZRb__A.png)
 Spending Limits currently enforced on TokenCards
 
 #### Testing update
@@ -78,4 +78,4 @@ We really appreciate your patience during our alpha rollout. As with all product
 
 Thanks —Alan on behalf of Team TokenCard
 
-![](images/1__XAVNsFRE6xtMKPxquvQITQ.gif)
+![](/images/1__XAVNsFRE6xtMKPxquvQITQ.gif)

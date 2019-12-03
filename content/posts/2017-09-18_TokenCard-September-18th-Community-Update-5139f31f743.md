@@ -15,7 +15,7 @@ We had a few notable mentions this week with our founders Mel and David being fe
 
 We remain on track for the MVP release planned for the end of the year. There is still much to be done before then, and we are continually looking for top talent from around London. You may have noticed that we have recently updated our existing website to fix some minor issues, however, a major rework of tokencard.io is currently underway and will be released in the coming weeks.
 
-![William presenting Token in China.](images/1__te__n5iRrdTPX5HsEpWbdoA.jpeg)
+![William presenting Token in China.](/images/1__te__n5iRrdTPX5HsEpWbdoA.jpeg)
 William presenting Token in China.
 
 There have been developments in China that have influenced the cryptocurrency industry in general. Despite these developments, we continue to work to forge partnerships in the region. William, our director of partnerships, was touring the east-coast of China last week, meeting with potential partners and giving presentations on TokenCard.
