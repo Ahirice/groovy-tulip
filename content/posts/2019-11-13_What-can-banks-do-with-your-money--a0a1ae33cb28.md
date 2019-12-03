@@ -1,6 +1,5 @@
 ---
 title: What can banks do with your money?
-subtitle: this is subtitle
 description: >-
   For someone not familiar with the topic, it reads like a weird question, to
   begin with — it’s my money after all right?
