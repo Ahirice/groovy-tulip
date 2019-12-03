@@ -26,7 +26,9 @@ A gold-backed & Ethereum-enabled financial life is now possible! To celebrate th
 
 To partake in the distributions, you’ll need a Monolith Debit Card of your own. You can order one [straight from your iPhone](http://monolith.xyz) and have it shipped to all 31 countries of the EEA, which includes most of Europe.
 
-<img src = "https://cdn-images-1.medium.com/max/800/1*vxajvCZ9ozQeqfBDenk_yQ.png" align = "center" alt = "Get your Monolith card today">
+<div align="center"><a href="https://monolith.app.link/1j516H1Hd0"target="_blank">
+<img src="https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png" alt = "Preview of the Monolith Visa Debit Card"></img>
+</a></div>
 
 [**Get your Monolith card today**](https://monolith.app.link/4o1oAaU68Y)
 

@@ -18,7 +18,10 @@ If you were part of the Community Testing programme, no worries. There is nothin
 
 Don’t have the Monolith wallet yet? Find our app on both stores below👇
 
-[![](https://cdn-images-1.medium.com/max/800/0*cTYxMvIFM8qDVeLN.png)](https://monolith.app.link/oYkoTO4Fm1)
+<div align="center"><a href="https://monolith.app.link/1Et7kyYZV1"target="_blank">
+<img src="/images/Monolith_App_and_Card_V2-tighter-compressor.jpg"></img>
+<img src="/images/2-STORES-small.jpg"></img>
+</a></div>
 
 Make sure to keep your Monolith app updated to enjoy the best experience available.
 
