@@ -105,10 +105,6 @@ There are some safeguards for this, for instance in Europe the customer bank acc
 
 The 0.1 = 1 absurdity depicted above is more than a mere bank problem: it’s a **system-wide issue.** It has to do with what money even means for those in charge, and the monetary policies enforced.
 
-{{< img-post
-    path="/images/)" file="0__XovBGEgZ5hUWwMD8.png"
-    alt="DogeCoin" type="left" >}}
-
 In the long run, the best way to protect your assets might be to simply to pick a currency where this cannot happen. The cool thing with Bitcoin and Ethereum, for instance, is that **1 = 1**: 1 ETH is always worth 1 ETH, and “backed by 1 ETH”.
 
 While this can seem basic or obvious, as we've seen above**, this is no longer true for fiat currencies**, since $1 dollar existing in the system can be backed by only $0.1 “physical dollar” (monetary base) at the bank, or even less through the re-lending process.
