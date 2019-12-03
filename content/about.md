@@ -1,10 +1,12 @@
 ---
 title: About
-subtitle: Learn more about Monolith, decentralised finance & Ethereum
+subtitle: Answers to common & practical questions about the Monolith Wallet and Card
+  and where to learn more
 img_path: "/images/Header-compressor.png"
 layout: page
 description: A comprehensive guide to learn about Monolith, the decentralised banking
-  alternative powered by Ethereum
+  alternative powered by Ethereum. FAQ answering common questions about Monolith Card
+  & Wallet.
 menu:
   main:
     weight: 2
