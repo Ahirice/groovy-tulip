@@ -3,6 +3,7 @@ title: What can banks do with your money?
 description: >-
   For someone not familiar with the topic, it reads like a weird question, to
   begin with — it’s my money after all right?
+excerpt: For someone not familiar with the topic, it reads like a weird question, to begin with — it’s my money after all right?
 date: '2019-11-13T14:45:42.672Z'
 categories: []
 keywords: []
@@ -10,7 +11,6 @@ slug: /what-can-banks-do-with-your-money
 thumb_img_path: images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
 content_img_path: images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
 layout: post
-excerpt: For someone not familiar with the topic, it reads like a weird question, to begin with — it’s my money after all right?
 
 ---
 
