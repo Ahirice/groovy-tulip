@@ -41,6 +41,3 @@ fields:
   config:
     required: true
   label: Meta-Description
-pages:
-- content/posts/yoyoyoy.md
-- content/posts/what-isphotography.md
