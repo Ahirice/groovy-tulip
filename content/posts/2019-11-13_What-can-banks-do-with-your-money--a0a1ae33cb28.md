@@ -105,8 +105,9 @@ There are some safeguards for this, for instance in Europe the customer bank acc
 
 The 0.1 = 1 absurdity depicted above is more than a mere bank problem: it’s a **system-wide issue.** It has to do with what money even means for those in charge, and the monetary policies enforced.
 
-![](/images/0__XovBGEgZ5hUWwMD8.png)
-[DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE
+{{< img-post
+    path="/images/)" file="0__XovBGEgZ5hUWwMD8.png"
+    alt="DogeCoin" type="left" >}}
 
 In the long run, the best way to protect your assets might be to simply to pick a currency where this cannot happen. The cool thing with Bitcoin and Ethereum, for instance, is that **1 = 1**: 1 ETH is always worth 1 ETH, and “backed by 1 ETH”.
 
