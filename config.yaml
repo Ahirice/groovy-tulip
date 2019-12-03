@@ -41,8 +41,8 @@ privacy:
     disable: true
   twitter:
     disable: false
-    enableDNT: false
-    simple: true
+    enableDNT: true
+    simple: false
   vimeo:
     disable: true
   youtube:
