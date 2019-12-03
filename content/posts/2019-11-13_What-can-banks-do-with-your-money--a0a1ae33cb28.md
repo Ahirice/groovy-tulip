@@ -119,6 +119,8 @@ On the other hand, here is Alan Greenspan’s take (13th Chair of the Federal Re
 
 > The United States can pay any debt it has because we can always print money to do that.
 
+{{< youtube Ck3FuTzZvhI >}}
+
 ### 3. When you invest in a financial product, where does your money goes to?
 
 The question is so wide that it will be hard to answer systematically. However, despite the sheer amount of possibilities you have here, they tend to all share the same high-level issues: the **financial products are unnecessarily complex, transparency is generally lacking, and finally, the users usually have little control over the actual usage of its funds**.
