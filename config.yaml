@@ -20,6 +20,8 @@ params:
     has_social: true
 disableKinds:
 - RSS
+- taxonomy
+- taxonomyTerm
 menu:
   main:
   - url: https://monolith.app.link/1Et7kyYZV1
@@ -46,8 +48,3 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
-  
-  categories:
-  - category1
-  - category2
-  - category3
