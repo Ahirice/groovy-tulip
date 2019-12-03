@@ -47,7 +47,6 @@ privacy:
     disable: false
     privacyEnhanced: true
   
-  taxonomies:
   categories:
   - category1
   - category2
