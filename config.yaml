@@ -47,4 +47,4 @@ privacy:
     disable: true
   youtube:
     disable: false
-    privacyEnhanced: false
+    privacyEnhanced: true
