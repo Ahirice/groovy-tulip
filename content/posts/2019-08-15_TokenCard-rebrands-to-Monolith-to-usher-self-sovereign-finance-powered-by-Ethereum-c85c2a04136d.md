@@ -42,7 +42,7 @@ Let’s not forget about the service that enables the spending of ETH & ERC-20 i
 
 It was about time to get them to look the part — they are unique and unparalleled after all, and now so is their design:
 
-![Get your Monolith card today](https://cdn-images-1.medium.com/max/800/1*vxajvCZ9ozQeqfBDenk_yQ.png)
+![Get your Monolith card today](https://cdn-images-1.medium.com/max/800/1*vxajvCZ9ozQeqfBDenk_yQ.png#center)
 
 [Get your Monolith card today](https://monolith.app.link/4o1oAaU68Y)
 
