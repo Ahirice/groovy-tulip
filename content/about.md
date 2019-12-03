@@ -16,7 +16,7 @@ Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-
 
 > You are the one and only in control of the assets stored in your contract wallet
 
-Monolith cards are paired with a non-custodial contract wallet to secure crypto assets to the best of current technical possibilities. **You are the one and only in control of the assets stored in your contract wallet**. 
+Monolith cards are paired with a non-custodial contract wallet to secure crypto assets to the best of current technical possibilities. **You are the one and only in control of the assets stored in your contract wallet**.
 
 🔒 Each of our users deploys their own instance of the [Monolith contract wallet](https://github.com/tokencard/contracts).
 
@@ -24,8 +24,8 @@ Users can set up a whitelist as well as daily spending limits to protect their a
 
 | Service | Countries Served | Fee |
 | :---: | :---: | :---: |
-| Monolith Wallet | All 🌍 | None (Ethereum Network Fees) |
-| Monolith Card | Europe (EEA) 🇪🇺 | 1-2% for top-ups, none for card usage in local currency |
+| 🔐 Monolith Wallet | All 🌍 | None (Ethereum Network Fees) |
+| 💳 Monolith Card | Europe (EEA) 🇪🇺 | 1-2% for top-ups, none for card usage in local currency |
 
 ### 💳 How do I get a card?
 
@@ -103,6 +103,7 @@ As a TKN holder, you are directly incentivised to use and recommend Monolith to 
 TKN holders can redeem their fair share of the community chest through the Cash&Burn function. _At any time_, a TKN holder can use TKN's Cash & Burn function to collect a current pro-rata share of the licensing fees accumulated in the community chest. Their share corresponds to the percentage of TKN burned (relative to the total supply).
 
 Since burning your TKN reduces the total amount of TKN in circulation, it proportionally increases the stake of the community chest which can be claimed by further burning in the future.
+<img src= "/images/Decentralised_Finance@2x-800.png" align = "center">
 
 ***
 
