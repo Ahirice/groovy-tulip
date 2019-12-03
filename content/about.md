@@ -16,7 +16,9 @@ Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-
 
 > You are the one and only in control of the assets stored in your contract wallet
 
-Monolith cards are paired with a non-custodial contract wallet to secure crypto assets to the best of current technical possibilities. **You are the one and only in control of the assets stored in your contract wallet**. Each of our users deploys their own instance of the [Monolith contract wallet](https://github.com/tokencard/contracts).
+Monolith cards are paired with a non-custodial contract wallet to secure crypto assets to the best of current technical possibilities. **You are the one and only in control of the assets stored in your contract wallet**. 
+
+🔒 Each of our users deploys their own instance of the [Monolith contract wallet](https://github.com/tokencard/contracts).
 
 Users can set up a whitelist as well as daily spending limits to protect their assets, even if their wallet was to be compromised, without compromising on the solution's usability.
 
@@ -29,7 +31,7 @@ Users can set up a whitelist as well as daily spending limits to protect their a
 
 The cards are already available and shipping to the UK, and most other European countries: **all 31 countries of the EEA.** All your interactions with the Monolith Wallet and Card are done using your phone.
 
-Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat).
+📱 Our app is available on iPhone 6 and up from running iOS >=12, and Android >=7.0 (Nougat).
 
 <div align="center"><a href="https://monolith.app.link/1Et7kyYZV1"target="_blank">
 <img src="/images/Monolith_App_and_Card_V2-tighter-compressor.jpg"></img>
@@ -72,9 +74,7 @@ The fees are kept to a minimum. There is no setup fee, no activation fee, nor do
 
 The licensing fees collected populate the community chest, which is where it gets really exciting!
 
-***
-
-### Where are my funds stored with Monolith?
+### 🔐 Where are my funds stored with Monolith?
 
 > The [source code of the wallet](https://github.com/tokencard/contracts) is not only open-source (GPL3); it's also thoroughly documented to make sure each of our users can understand the functions they interact with daily.
 
@@ -88,9 +88,7 @@ The [source code of the wallet](https://github.com/tokencard/contracts) is not o
 
 Worried about smart contract failures? The code of our contract wallet has been [audited several times](https://github.com/tokencard/contracts/tree/master/audits) by companies including Trail of Bits & New Alchemy).
 
-***
-
-### What is TKN and Community Chest?
+### ⛓️ What is TKN and Community Chest?
 
 > Every time one of our users top-up his card with any token other than TKN, a 1% licensing fee is charged and sent to the community chest. TKN holders can claim their share of the community chest at any time using Cash & Burn.
 
@@ -100,7 +98,7 @@ Since the TKN community chest is made of the different ERC-20s used in our servi
 
 As a TKN holder, you are directly incentivised to use and recommend Monolith to your friends. In that sense, TKN is one of the few tokens directly linked to the success of its associated service.
 
-### How can I claim my share of the fees collected in the Community Chest?
+### 🔥 How can I claim my share of the fees collected in the Community Chest?
 
 TKN holders can redeem their fair share of the community chest through the Cash&Burn function. _At any time_, a TKN holder can use TKN's Cash & Burn function to collect a current pro-rata share of the licensing fees accumulated in the community chest. Their share corresponds to the percentage of TKN burned (relative to the total supply).
 
@@ -108,7 +106,7 @@ Since burning your TKN reduces the total amount of TKN in circulation, it propor
 
 ***
 
-### Where can I learn more about Monolith?
+### ℹ Where can I learn more about Monolith?
 
 You've come to the right place! If you're just discovering the project, here are some good reads to get started:
 
