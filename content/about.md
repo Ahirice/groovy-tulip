@@ -125,7 +125,7 @@ You've come to the right place! If you're just discovering the project, here are
 - [CryptoTesters - Monolith Wallet Review](https://cryptotesters.com/wallet/monolith)
 - [Crypto Authority - Monolith Wallet Review](https://medium.com/@cryptoauthority/review-tokencard-2b5cdcfb179d)
 - [How to spend your ERC20 Ethereum tokens using the Monolith Crypto Visa Card](https://www.markethodl.com/blog/how-to-spend-your-erc20-ethereum-tokens-using-the-monolith-crypto-visa-card)
-- [🇫🇷Test de Monolith : bienvenue dans la finance décentralisée](https://cryptoast.fr/test-avis-monolith-finance-decentralisee/)
+- [🇫🇷 Test de Monolith : bienvenue dans la finance décentralisée](https://cryptoast.fr/test-avis-monolith-finance-decentralisee/)
 - [🇵🇱 Monolith (TokenCard) – karta do wydawania krypto, dla której sam jesteś bankiem](https://www.zrozumiecbitcoina.pl/2019/08/17/monolith-tokencard-karta-do-wydawania-krypto-dla-ktorej-sam-jestes-bankiem/)
 
 ### Videos and Podcasts
