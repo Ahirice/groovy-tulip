@@ -7,6 +7,8 @@ keywords: []
 slug: /tokencard-october-community-update
 excerpt: Here is a round up of what we’ve been up to since our last update.
 layout: post
+thumb_img_path: /images/1__H3K1oOes3CnVKIYh4A2XFw.png
+content_img_path: /images/1__H3K1oOes3CnVKIYh4A2XFw.png
 ---
 
 Here is a round up of what we’ve been up to since our last update.

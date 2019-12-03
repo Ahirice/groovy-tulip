@@ -7,6 +7,8 @@ keywords: []
 slug: /tokencard-september-18th-community-update
 excerpt: Meetup & AMA details
 layout: post
+thumb_img_path: /images/1__te__n5iRrdTPX5HsEpWbdoA.jpeg
+content_img_path: /images/1__te__n5iRrdTPX5HsEpWbdoA.jpeg
 ---
 
 Greetings from TokenCard HQ in London. We would like to start by saying thanks to the community for their continued support. tknfan, a community member, visited us a couple of weeks ago for what was a great interaction and we remain excited about meeting others from the community soon.

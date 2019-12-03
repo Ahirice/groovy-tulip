@@ -10,8 +10,8 @@ slug: /meet-brice-our-community-manager
 excerpt: >-
   Meet Brice, the latest addition to TokenCard's team. He'll be handling the
   community and increase our footprint within the crypto…
-thumb_img_path: /images/1__PyV0ykpWteoVEhhjq__C7OA.jpeg
-content_img_path: /images/1__PyV0ykpWteoVEhhjq__C7OA.jpeg
+thumb_img_path: /images/brice.jpeg
+content_img_path: /images/brice.jpeg
 layout: post
 ---
 

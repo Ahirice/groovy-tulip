@@ -11,6 +11,8 @@ excerpt: >-
   Alan joined Token as Product Marketing Manager this month! We caught up with
   him to hear a little more about his background, why he joined…
 layout: post
+thumb_img_path: /images/1__5IYkaG9fi1mtz8t3KLimUQ.png
+content_img_path: /images/1__5IYkaG9fi1mtz8t3KLimUQ.png
 ---
 
 Alan here 👋 I joined Token at the beginning of this month. I thought I’d introduce myself and say a little about what I’ll be doing at Token.

@@ -7,6 +7,9 @@ keywords: []
 slug: /crypto-regulation-a-guide
 excerpt: Why does regulation matter for Crypto?
 layout: post
+thumb_img_path: /images/1__ZGuapvqtqB__HLGytH5F9lw.jpeg
+content_img_path: /images/1__ZGuapvqtqB__HLGytH5F9lw.jpeg
+layout: post
 ---
 
 ### Why does regulation matter for Crypto?

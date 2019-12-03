@@ -7,6 +7,9 @@ keywords: []
 slug: /the-age-of-the-consumer-contract-wallet
 excerpt: Today the Token team shows you what the future holds.
 layout: post
+thumb_img_path: /images/1__ZRJwzx9DrheMyVp__4r95hA.png
+content_img_path: /images/1__ZRJwzx9DrheMyVp__4r95hA.png
+---
 ---
 
 Big things need to change for Ethereum to enter the global consciousness.

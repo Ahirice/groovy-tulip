@@ -11,6 +11,8 @@ excerpt: >-
   We’ve spent the past few weeks onboarding the first Tokenauts onto the
   TokenWallet alpha — 300 of you have already got involved, and we’re…
 layout: post
+thumb_img_path: /images/1__5EJSGKCd__er__RiIzv__yodg.png
+content_img_path: /images/1__5EJSGKCd__er__RiIzv__yodg.png
 ---
 
 We’ve spent the past few weeks onboarding the first Tokenauts onto the TokenWallet alpha — 300 of you have already got involved, and we’re looking to ramp that number up to 1,000 before the New Year, ahead of our test cards going live (🔌 keep your eyes peeled on Twitter over the next few days for updates on testing)…
