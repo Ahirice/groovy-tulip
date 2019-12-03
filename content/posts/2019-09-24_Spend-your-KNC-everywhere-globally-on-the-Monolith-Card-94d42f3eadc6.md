@@ -19,8 +19,9 @@ Don’t worry; the Android version is coming soon! 🤖
 
 KNC is the now seventh token available to spend on the Monolith Card, after ETH, TKN, DAI, DGD, DGX and MKR. We’ll keep on enabling card top-ups with more promising Ethereum-based tokens in the future.
 
-[!**🎁 Order your Monolith Card today**[Preview of the Monolith Visa Debit Card](https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png)](https://monolith.app.link/1j516H1Hd0)
-**🎁 Order your Monolith Card today**
+![Preview of the Monolith Visa Debit Card](https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png)
+
+[**🎁 Order your Monolith Card today**](https://monolith.app.link/1j516H1Hd0)
 
 ### Get TKN tokens on KyberSwap!
 
