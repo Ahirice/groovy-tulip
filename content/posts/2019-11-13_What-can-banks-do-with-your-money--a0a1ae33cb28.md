@@ -68,7 +68,8 @@ The issue is widespread. We see reports coming from all around the world, includ
 
 This has gotten to the point where the community is now compiling [list of banks](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false) who prevent fiat-to-crypto transactions and the ones that are crypto-friendly:
 
-![[Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)](images/0__bTx4eTBps2qaVIE6.jpg)
+![Banks that explicitly ban or limit bitcoin purchasing](images/0__bTx4eTBps2qaVIE6.jpg)
+
 [Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)
 
 So there you have it!   
@@ -186,5 +187,3 @@ As we move forward, we'll provide access to more and more DeFi services straight
 It's time for you to experience [the first participatory and decentralised banking alternative.](https://monolith.app.link/ohz0vFAcl1) 👇
 
 [![](https://cdn-images-1.medium.com/max/800/1*1xnSIs4t4M40S5jfLwca6Q.jpeg)](https://monolith.app.link/ohz0vFAcl1)
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
