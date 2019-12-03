@@ -11,6 +11,8 @@ excerpt: >-
   A busy month on and it is time for another update from the Token team. To kick
   off, we hope all our readers in the US had a wonderful…
 layout: post
+thumb_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
+content_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
 ---
 
 A busy month on and it is time for another update from the Token team. To kick off, we hope all our readers in the US had a wonderful Thanksgiving. And if Black Friday sales are bit too much for you, there’s plenty of updates to keep you entertained in our latest post.

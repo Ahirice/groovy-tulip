@@ -156,6 +156,4 @@ _The latest Tweets from ConsenSys (@ConsenSys). ~Not giving away ETH~ Blockchain
 
 See you in Ether!
 
-— Team TokenCard
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
+— Team Monolith

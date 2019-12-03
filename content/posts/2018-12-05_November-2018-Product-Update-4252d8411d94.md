@@ -7,6 +7,8 @@ keywords: []
 slug: /november-2018-product-update
 excerpt: "We’ve been gearing up to a festive season of testing at Token HQ \U0001F384"
 layout: post
+thumb_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
+content_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
 ---
 
 We’ve been gearing up to a festive season of testing at Token HQ 🎄

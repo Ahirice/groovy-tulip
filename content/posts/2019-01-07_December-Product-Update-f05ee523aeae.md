@@ -7,6 +7,8 @@ keywords: []
 slug: /december-product-update
 excerpt: "Hello Tokenauts \U0001F44B We’re starting 2019 off with a quick update on how our Product and Engineering team rounded off 2018. We’ve been…"
 layout: post
+thumb_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
+content_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
 ---
 
 Hello Tokenauts 👋 We’re starting 2019 off with a quick update on how our Product and Engineering team rounded off 2018. We’ve been working on a two big projects concurrently — first up, getting the Smart Contracts tightened up and pushed to Ropsten, and secondly, working on card KYC and issuance.

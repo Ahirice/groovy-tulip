@@ -11,6 +11,8 @@ excerpt: >-
   We’re blitzing through 2019, and it’s been a pretty chock-a-block start to the
   year. The Token Product and Engineering teams are still…
 layout: post
+thumb_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
+content_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
 ---
 
 We’re blitzing through 2019, and it’s been a pretty chock-a-block start to the year. The Token Product and Engineering teams are still dividing their time between two big projects; building out the Smart Contract, and getting everything working on the card side.

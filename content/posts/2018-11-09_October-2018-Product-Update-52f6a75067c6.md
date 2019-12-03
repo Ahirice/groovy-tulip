@@ -7,6 +7,8 @@ keywords: []
 slug: /october-2018-product-update
 excerpt: "Hello all, it’s been a busy October \U0001F383"
 layout: post
+thumb_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
+content_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
 ---
 
 Hello all, it’s been a busy October 🎃

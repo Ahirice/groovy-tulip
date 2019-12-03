@@ -11,6 +11,8 @@ excerpt: >-
   February has been about one thing — getting us ready to get the the TokenCard
   alpha cards into our community’s hands. Here’s the progress…
 layout: post
+thumb_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
+content_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
 ---
 
 February has been about one thing — getting us ready to get the the TokenCard alpha cards into our community’s hands. Here’s the progress we’ve made on the Product and Engineering front.

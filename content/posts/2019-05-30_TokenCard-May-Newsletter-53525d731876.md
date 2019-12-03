@@ -48,10 +48,10 @@ Plug in, and tune out to Mel’s dulcet tones — [**listen on Spotify →**
 
 #### …and a Final Note on Android 🤖
 
-Those of you who follow us on Twitter **@**[**tokencard.io**](http://twitter.com/tokencard_io) will have noticed some interesting replies to people asking about Android. We’re excited to announce that we’ve ramped up development of the TokenCard App on Android! The work at the moment is focussed around Android security research, plus putting the foundations in place from a coding perspective. Stay tuned.
+Those of you who follow us on Twitter **@**[**monolith_web3**](http://twitter.com/monolith_web3) will have noticed some interesting replies to people asking about Android. We’re excited to announce that we’ve ramped up development of the TokenCard App on Android! The work at the moment is focussed around Android security research, plus putting the foundations in place from a coding perspective. Stay tuned.
 
-Read this far and still not signed up? You’re one click away — [**order today**](https://tokencard.io/alpha/)!
+Read this far and still not signed up? You’re one click away — [**order today**](https://monolith.xyz)!
 
 Thanks, and see you next month!
 
-Team TokenCard
+— Team Monolith

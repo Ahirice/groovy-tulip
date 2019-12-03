@@ -136,6 +136,4 @@ View your card PIN with the TokenCard App
 
 Congratulations! You’re now part of the avant-garde (pardon my French) of Ethereum — the #TokenCard1K. Want to chat about your life in the Ether with other pioneers? [Join the community discussion on Discord!](https://discord.gg/YrrFpFd)
 
-…Or maybe you were reading this piece simply to learn about the process? No hard feelings! [Now is the time to sign-up to TokenCard](https://tokencard.io/alpha/) to enjoy the world first non-custodial debit card: spend your cryptos, with some class.
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
+…Or maybe you were reading this piece simply to learn about the process? No hard feelings! [Now is the time to sign-up to TokenCard](https://monolith.xyz/) to enjoy the world first non-custodial debit card: spend your cryptos, with some class.

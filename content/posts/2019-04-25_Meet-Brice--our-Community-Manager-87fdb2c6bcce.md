@@ -63,8 +63,3 @@ Regarding NEO and ONT, I think that dBFT is an elegant solution which solves sev
 Above all else, the main hat I wear is that of writing content. If you want to get to know me better, I encourage you to check my articles. I have between 600 to 800 pieces published (it’s becoming hard to track!), but most of them don’t bear my name since they were written for clients.
 
 However, I also make an effort to keep writing for my own pleasure. You’ll find that content [**on my Medium**](https://medium.com/@BBerdah).
-
-**— 🎮** [**Discord**](https://discordapp.com/invite/RhxpjpX)**| 👽** [**Reddit**](https://www.reddit.com/r/TokenCard/) **| 🐦** [**Twitter**](https://twitter.com/tokencard_io) **| 📜** [**Whitepaper**](https://tokencard.io/tokencard_whitepaper.pdf)**| 🕸️** [**Website**](https://tokencard.io/) **—**
-
-![**Loved it? Say it with claps! It helps spreading our articles.**](/images/1__XAVNsFRE6xtMKPxquvQITQ.gif)
-**Loved it? Say it with claps! It helps spreading our articles.**

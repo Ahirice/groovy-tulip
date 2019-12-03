@@ -162,6 +162,4 @@ If you are in London, you can check the [next events organised by Rise here](htt
 
 See you in Ether!
 
-— Team TokenCard
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
+— Team Monolith

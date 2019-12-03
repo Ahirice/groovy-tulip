@@ -11,6 +11,8 @@ excerpt: >-
   Hi Tokenauts, welcome to February’s newsletter! It’s been a busy month: we’ve
   made a lot of progress with the TokenCard card, and we’re…
 layout: post
+thumb_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+content_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
 ---
 
 Hi Tokenauts, welcome to February’s newsletter! It’s been a busy month: we’ve made a lot of progress with the TokenCard card, and we’re happy to announce details for our community meet-up next month. Let’s dive in…

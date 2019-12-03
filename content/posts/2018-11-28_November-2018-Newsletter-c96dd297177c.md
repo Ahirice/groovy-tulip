@@ -11,6 +11,8 @@ excerpt: >-
   It’s November, which means a few things: autumn colours, the festive season
   rolling in, and a brand new newsletter from the Token Team!
 layout: post
+thumb_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+content_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
 ---
 
 It’s November, which means a few things: autumn colours, the festive season rolling in, and the Token Team newsletter!

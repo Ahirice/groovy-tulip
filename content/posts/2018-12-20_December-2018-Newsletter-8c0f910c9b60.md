@@ -11,6 +11,8 @@ excerpt: >-
   It’s December! The festive season is here, and it’s the final Token newsletter
   of 2018. Before we dive in, we’d like to take a moment to…
 layout: post
+thumb_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+content_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
 ---
 
 It’s December! The festive season is here, and it’s the final Token newsletter of 2018. Before we dive in, we’d like to take a moment to thank you for your support this year. Our Community is a huge part of what we’re building, and _you’re_ a big part of it. Wherever you are, we hope you have a restful and enjoyable holiday season.

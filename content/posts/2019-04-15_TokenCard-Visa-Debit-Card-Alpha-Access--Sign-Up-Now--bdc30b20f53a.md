@@ -63,4 +63,4 @@ We’re bringing the Ethereum economy to life. **Together**.
 
 Thank you; we’re excited to get cards out there!
 
-— Team TokenCard
+— Team Monolith

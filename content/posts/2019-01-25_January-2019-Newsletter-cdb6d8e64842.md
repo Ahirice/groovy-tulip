@@ -7,6 +7,8 @@ keywords: []
 slug: /january-2019-newsletter
 excerpt: "Hi Tokenauts \U0001F44B It’s our first newsletter of the year, and we have some exciting developments on the card, our smart contract bug bounty…"
 layout: post
+thumb_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+content_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
 ---
 
 Hi Tokenauts 👋 It’s our first newsletter of the year, and we have some exciting developments on the card, our smart contract bug bounty, and more!

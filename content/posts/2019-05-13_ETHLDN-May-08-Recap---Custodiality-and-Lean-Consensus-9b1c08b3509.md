@@ -72,5 +72,3 @@ Designed with small devices in mind, PoKW is able to dramatically reduce the con
 *   [Check the Youtube channel](https://www.youtube.com/channel/UCfHthxn9XJwHTVilKFntlug) for more talk videos
 
 Thanks to Jamie, Cameron, Lou and everybody else involved in making this event happens. See you for the next event!
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

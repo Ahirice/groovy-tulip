@@ -102,6 +102,4 @@ Since capital gain taxes are paid on the spread between the buying and selling p
 
 And here it is: a team paid in ETH; so what's the next step to make life on Ethereum real? We'll address assets management and how to secure your cryptocurrencies in the following blog posts.
 
-We hope this article will help other companies on the edge of crypto-salaries to make the move. Meanwhile, feel free to reach out if you have more questions about paying people with cryptocurrencies or about us:
-
-**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
+We hope this article will help other companies on the edge of crypto-salaries to make the move. Meanwhile, feel free to reach out if you have more questions about paying people with cryptocurrencies or about us.

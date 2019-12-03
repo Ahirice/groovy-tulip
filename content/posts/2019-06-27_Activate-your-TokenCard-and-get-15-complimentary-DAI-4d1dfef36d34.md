@@ -36,6 +36,4 @@ That will be more than enough to take their TokenCard on a run for an Ethereum-e
 
 Whether we’ve you’ve been following us since our crowdsale or you just joined now, we thank you all for making a life on Ethereum possible.
 
-We have more exciting things coming over the next few months — stay tuned! Follow us for updates and drop us a note on the following channels:
-
-[**🐦 Twitter**](https://twitter.com/tokencard) |  [**🎮 Discord**](https://discord.gg/YrrFpFd) |  [**👽 Reddit**](https://www.reddit.com/r/tokencard)
+We have more exciting things coming over the next few months — stay tuned! 

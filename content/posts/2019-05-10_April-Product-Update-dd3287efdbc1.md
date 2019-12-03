@@ -59,4 +59,4 @@ Being transparent with our community is something we’re super committed to, an
 
 Until next time, happy testing.
 
-— Team TokenCard
+— Team Monolith
