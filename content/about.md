@@ -101,7 +101,7 @@ As a TKN holder, you are directly incentivised to use and recommend Monolith to 
 
 ### 🔥 How can I claim my share of the fees collected in the Community Chest?
 
-TKN holders can redeem their fair share of the community chest through the Cash&Burn function. _At any time_, a TKN holder can use TKN's Cash & Burn function to collect a current pro-rata share of the licensing fees accumulated in the community chest. Their share corresponds to the percentage of TKN burned (relative to the total supply).
+TKN holders can redeem their fair share of the community chest through the TKB Burn function. **_At any time_, a TKN holder can use TKN's Burn function to collect a current pro-rata share of the licensing fees accumulated in the community chest.** Their share corresponds to the percentage of TKN burned (relative to the total supply).
 
 Since burning your TKN reduces the total amount of TKN in circulation, it proportionally increases the stake of the community chest which can be claimed by further burning in the future.
 <img src= "/images/Decentralised_Finance@2x-800.png" align = "center">
