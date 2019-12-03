@@ -1,7 +1,6 @@
 ---
 title: About
-subtitle: Answers to common & practical questions about the Monolith Wallet and Card
-  and where to learn more
+subtitle: Answering common questions about the Monolith Wallet & Card
 img_path: "/images/Header-compressor.png"
 layout: page
 description: A comprehensive guide to learn about Monolith, the decentralised banking
