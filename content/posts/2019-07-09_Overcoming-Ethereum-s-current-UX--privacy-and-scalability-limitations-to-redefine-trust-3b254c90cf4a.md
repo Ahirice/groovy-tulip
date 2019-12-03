@@ -151,8 +151,7 @@ We hope this article helped you understand the current limits and what's next fo
 
 If you are in London, you can check the next events organized by ConsenSys, here:
 
-[**ConsenSys (@ConsenSys) | Twitter**  
-_The latest Tweets from ConsenSys (@ConsenSys). ~Not giving away ETH~ Blockchain studio building decentralized…_twitter.com](https://twitter.com/ConsenSys "https://twitter.com/ConsenSys")[](https://twitter.com/ConsenSys)
+{{< tweet 1197030856151289857 >}}
 
 See you in Ether!
 

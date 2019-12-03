@@ -49,7 +49,8 @@ Sounds good, but what is a Seed Phrase, exactly? Well…
 
 ### 2️⃣ Rule #2a | Understand your seed phrase. Learn your seed phrase.
 
-![](/images/1__xk7Y76ldEfZFaqWEKgr7hw.png)
+<div align="center">
+<img src="/images/1__xk7Y76ldEfZFaqWEKgr7hw.png" alt = "Seed Phrase Backup with Monolith Wallet"></img></div>
 
 Your seed phrase is what governs your wallet. If you use a standard wallet, anyone who has access to it can instantly transfer all your assets to another address outside your control — so your seed is a pretty big deal. This means that it’s more important than ever to keep it safe and secure.
 

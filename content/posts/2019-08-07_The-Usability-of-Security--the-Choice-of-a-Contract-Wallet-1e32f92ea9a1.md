@@ -78,7 +78,8 @@ Now, here’s the coolest part about contract wallet: **you don’t have to hand
 
 While onboarding the Monolith app, we walk you through it. The only thing we ask of you is to write down and secure your seed; once it’s done the contract deployment is seamless and takes just a single tap.
 
-![TokenCard app contract wallet deployment](https://cdn-images-1.medium.com/max/800/1*ZRvdZFVobMr0vi051B3vCg.gif)
+<div align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*ZRvdZFVobMr0vi051B3vCg.gif" alt = "TokenCard app contract wallet deployment"></img></div>
 
 While this doesn’t look like much from the pure app perspective, what happens in the background is quite awesome:
 
@@ -93,6 +94,10 @@ _ℹ️ We mentioned the gas cost of this transaction earlier. In our current pr
 We insisted quite a bit on the non-custodial dimension of our service: we share **a conviction that you, and only you, should be able to control your assets.** Despite a price paid in terms of additional responsibility, it comes with many benefits, including one big we haven’t covered yet.
 
 … You own your keys, which means no worries, ever! Yes, even if Monolith was to disappear, you could simply input your seed in another service and move your assets around.
+
+<div align="center"><a href="https://monolith.app.link/1j516H1Hd0"target="_blank">
+<img src="https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png" alt = "Preview of the Monolith Visa Debit Card"></img><p>Get your Monolith card today</p>
+</a></div>
 
 [➡️ Get started with Monolith](https://monolith.app.link/0Jvily1Co1)
 
