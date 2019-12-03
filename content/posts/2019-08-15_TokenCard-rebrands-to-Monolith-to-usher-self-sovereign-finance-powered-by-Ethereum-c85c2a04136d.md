@@ -43,10 +43,8 @@ Let’s not forget about the service that enables the spending of ETH & ERC-20 i
 It was about time to get them to look the part — they are unique and unparalleled after all, and now so is their design:
 
 <div align="center"><a href="https://monolith.app.link/1j516H1Hd0"target="_blank">
-<img src="https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png" alt = "Preview of the Monolith Visa Debit Card"></img>
+<img src="https://cdn-images-1.medium.com/max/800/1*oZoK5YOgk9jIV3_scCVAzw.png" alt = "Preview of the Monolith Visa Debit Card"></img><p>Get your Monolith card today</p>
 </a></div>
-
-[Get your Monolith card today](https://monolith.app.link/4o1oAaU68Y)
 
 Oh, and by the way, the Monolith cards support Google Pay.
 
