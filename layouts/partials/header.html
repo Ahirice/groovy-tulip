@@ -39,7 +39,10 @@
       <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-menu"
           aria-hidden="true"></span></button>
       {{ end }}
-
+      {{ template "_internal/opengraph.html" . }}
+      {{ template "_internal/twitter_cards.html" . }}
+      {{ template "_internal/schema.html" . }}
+      {{ template "_internal/google_analytics.html" . }}
     </div><!-- .site-header-inside -->
   </div><!-- .inner -->
 </header><!-- .site-header -->
