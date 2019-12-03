@@ -11,13 +11,6 @@ menu:
     weight: 2
 
 ---
-# ToC Test
-
-  * [Is it expensive? What are the fees?](#is-it-expensive--what-are-the-fees-)
-  * [🔐 Where are my funds stored with Monolith?](#---where-are-my-funds-stored-with-monolith-)
-  * [⛓️ What is TKN and Community Chest?](#---what-is-tkn-and-community-chest-)
-  * [🔥 How can I claim my share of the fees collected in the Community Chest?](#---how-can-i-claim-my-share-of-the-fees-collected-in-the-community-chest-)
-
 ## What is Monolith?
 
 Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-20 in real-life, the way you're used to: with a debit card accepted anywhere.
@@ -127,13 +120,13 @@ You've come to the right place! If you're just discovering the project, here are
 
 ### User Reviews
 
-- [2019: A Berlin Odyssey — 7 Days of Crypto-Living on ETH Debit Card](https://cointelegraph.com/news/2019-a-berlin-odyssey-7-days-of-crypto-living-on-monoliths-eth-debit-card)
-- [Monolith – Reviews, Fees, Functions; Cryptos (2019) | Cryptowisser](https://www.cryptowisser.com/card/monolith/)
-- [CryptoTesters - Monolith Wallet Review](https://cryptotesters.com/wallet/monolith)
-- [Crypto Authority - Monolith Wallet Review](https://medium.com/@cryptoauthority/review-tokencard-2b5cdcfb179d)
-- [How to spend your ERC20 Ethereum tokens using the Monolith Crypto Visa Card](https://www.markethodl.com/blog/how-to-spend-your-erc20-ethereum-tokens-using-the-monolith-crypto-visa-card)
-- [🇫🇷 Test de Monolith : bienvenue dans la finance décentralisée](https://cryptoast.fr/test-avis-monolith-finance-decentralisee/)
-- [🇵🇱 Monolith (TokenCard) – karta do wydawania krypto, dla której sam jesteś bankiem](https://www.zrozumiecbitcoina.pl/2019/08/17/monolith-tokencard-karta-do-wydawania-krypto-dla-ktorej-sam-jestes-bankiem/)
+* [2019: A Berlin Odyssey — 7 Days of Crypto-Living on ETH Debit Card](https://cointelegraph.com/news/2019-a-berlin-odyssey-7-days-of-crypto-living-on-monoliths-eth-debit-card)
+* [Monolith – Reviews, Fees, Functions; Cryptos (2019) | Cryptowisser](https://www.cryptowisser.com/card/monolith/)
+* [CryptoTesters - Monolith Wallet Review](https://cryptotesters.com/wallet/monolith)
+* [Crypto Authority - Monolith Wallet Review](https://medium.com/@cryptoauthority/review-tokencard-2b5cdcfb179d)
+* [How to spend your ERC20 Ethereum tokens using the Monolith Crypto Visa Card](https://www.markethodl.com/blog/how-to-spend-your-erc20-ethereum-tokens-using-the-monolith-crypto-visa-card)
+* [🇫🇷 Test de Monolith : bienvenue dans la finance décentralisée](https://cryptoast.fr/test-avis-monolith-finance-decentralisee/)
+* [🇵🇱 Monolith (TokenCard) – karta do wydawania krypto, dla której sam jesteś bankiem](https://www.zrozumiecbitcoina.pl/2019/08/17/monolith-tokencard-karta-do-wydawania-krypto-dla-ktorej-sam-jestes-bankiem/)
 
 ### Videos and Podcasts
 
