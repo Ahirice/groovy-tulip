@@ -105,7 +105,7 @@ There are some safeguards for this, for instance in Europe the customer bank acc
 
 The 0.1 = 1 absurdity depicted above is more than a mere bank problem: it’s a **system-wide issue.** It has to do with what money even means for those in charge, and the monetary policies enforced.
 
-<img src ="/images/0__XovBGEgZ5hUWwMD8.png)" width=400px > [DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE
+<img src ="/images/0__XovBGEgZ5hUWwMD8.png)" width=400px> [DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE
 
 In the long run, the best way to protect your assets might be to simply to pick a currency where this cannot happen. The cool thing with Bitcoin and Ethereum, for instance, is that **1 = 1**: 1 ETH is always worth 1 ETH, and “backed by 1 ETH”.
 
@@ -127,9 +127,7 @@ The question is so wide that it will be hard to answer systematically. However, 
 
 In the US, the main investment vehicles for households are [employer-sponsored retirement plans](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp). Among them, the all-time star is the [401K plan](https://www.investopedia.com/articles/retirement/08/401k-info.asp).
 
-![](/images/0__JeQ437ug__AKm9ZZd.png)
-
-The subject is immensely complex, which is an issue by itself: [most (63%) Americans don’t understand the intricacies of it](https://www.cnbc.com/2019/03/07/63-percent-of-americans-are-confused-about-401k-retirement-plans.html). Between the fees, which plan to choose, how to time it and many other factors to consider, it quickly turns into a nightmare if you want to dive into this.
+<img src ="/images/0__JeQ437ug__AKm9ZZd.png)" width=400px> The subject is immensely complex, which is an issue by itself: [most (63%) Americans don’t understand the intricacies of it](https://www.cnbc.com/2019/03/07/63-percent-of-americans-are-confused-about-401k-retirement-plans.html). Between the fees, which plan to choose, how to time it and many other factors to consider, it quickly turns into a nightmare if you want to dive into this.
 
 It is sadly not US or 401K-specific issue: ask around (or yourself) — do you really know what your money at the bank is invested into? Not the type of asset it’s into (equities, bonds…) but the actual industry/services it’s financing down the line? Only financial-literate people who invest directly in the stock markets, picking the actions themselves, are able to answer that question.
 
@@ -182,5 +180,3 @@ As we move forward, we'll provide access to more and more DeFi services straight
 It's time for you to experience [the first participatory and decentralised banking alternative.](https://monolith.app.link/ohz0vFAcl1) 👇
 
 [![](https://cdn-images-1.medium.com/max/800/1*1xnSIs4t4M40S5jfLwca6Q.jpeg)](https://monolith.app.link/ohz0vFAcl1)
-
-**-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**
