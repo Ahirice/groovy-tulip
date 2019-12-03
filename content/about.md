@@ -121,7 +121,7 @@ You've come to the right place! If you're just discovering the project, here are
 ### User Reviews
 
 - [2019: A Berlin Odyssey — 7 Days of Crypto-Living on ETH Debit Card](https://cointelegraph.com/news/2019-a-berlin-odyssey-7-days-of-crypto-living-on-monoliths-eth-debit-card)
-- [Monolith – Reviews, Fees, Functions &amp; Cryptos (2019) | Cryptowisser](https://cryptotesters.com/wallet/monolith)
+- [Monolith – Reviews, Fees, Functions; Cryptos (2019) | Cryptowisser](https://www.cryptowisser.com/card/monolith/)
 - [CryptoTesters - Monolith Wallet Review](https://cryptotesters.com/wallet/monolith)
 - [Crypto Authority - Monolith Wallet Review](https://medium.com/@cryptoauthority/review-tokencard-2b5cdcfb179d)
 - [How to spend your ERC20 Ethereum tokens using the Monolith Crypto Visa Card](https://www.markethodl.com/blog/how-to-spend-your-erc20-ethereum-tokens-using-the-monolith-crypto-visa-card)
