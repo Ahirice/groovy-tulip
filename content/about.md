@@ -11,6 +11,13 @@ menu:
     weight: 2
 
 ---
+# ToC Test
+
+  * [Is it expensive? What are the fees?](#is-it-expensive--what-are-the-fees-)
+  * [🔐 Where are my funds stored with Monolith?](#---where-are-my-funds-stored-with-monolith-)
+  * [⛓️ What is TKN and Community Chest?](#---what-is-tkn-and-community-chest-)
+  * [🔥 How can I claim my share of the fees collected in the Community Chest?](#---how-can-i-claim-my-share-of-the-fees-collected-in-the-community-chest-)
+
 ## What is Monolith?
 
 Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-20 in real-life, the way you're used to: with a debit card accepted anywhere.
