@@ -29,3 +29,22 @@ menu:
     weight: 4
 description: 'Monolith provides a decentralised banking alternative: an Ethereum wallet
   paired with a crypto debit card to conveniently spend anywhere.'
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: false
+    privacyEnhanced: false
