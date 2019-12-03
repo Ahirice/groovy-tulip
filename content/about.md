@@ -11,7 +11,7 @@ menu:
     weight: 2
 
 ---
-## [https://cryptoast.fr/test-avis-monolith-finance-decentralisee/](https://cryptoast.fr/test-avis-monolith-finance-decentralisee/ "https://cryptoast.fr/test-avis-monolith-finance-decentralisee/")What is Monolith?
+## What is Monolith?
 
 Monolith is an Ethereum-powered solution allowing you to spend your ETH and ERC-20 in real-life, the way you're used to: with a debit card accepted anywhere.
 
