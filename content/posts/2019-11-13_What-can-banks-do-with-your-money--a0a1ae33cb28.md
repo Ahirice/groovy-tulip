@@ -52,7 +52,7 @@ Even custodial crypto services can partake: for instance, Coinbase explicitly li
 
 The blocking of cryptocurrency exchanges is thoroughly documented across the web, so let’s do a quick world tour:
 
-![RBI Crypto ban in India](images/0__j5w3jtXp75kf0OnV.jpg)
+![RBI Crypto ban in India](/images/0__j5w3jtXp75kf0OnV.jpg)
 RBI Crypto ban in India
 
 * [Indians are now threatened](https://twitter.com/DesiCryptoHodlr/status/1082870146685784065) to have their bank account closed if they move money in or out a cryptocurrency exchange service. The first letters announcing the closure of accounts [were sent](https://twitter.com/CryptoRevoltFR/status/1084054866987749377).
