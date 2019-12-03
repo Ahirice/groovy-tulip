@@ -42,9 +42,9 @@ Our wallet supports all ERC-20 tokens that are fully compliant with the standard
 
 You can currently top-up your card with:
 
-| ETH | TKN | USDC | MKR | DGX | DGD |
+| ETH | TKN | USDC | DAI | DGX | USDT |
 | :---: | :---: | :---: | :---: | :---: | --- |
-| KNC | RLC | GUSD | DAI | USDT | MATIC |
+| KNC | RLC | GUSD | MKR | DGD | MATIC |
 
 ### Does the Monolith Visa Card supports ...?
 
