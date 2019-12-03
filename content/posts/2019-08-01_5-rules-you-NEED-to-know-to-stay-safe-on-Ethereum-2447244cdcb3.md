@@ -10,8 +10,8 @@ slug: /5-rules-you-need-to-know-to-stay-safe-on-ethereum
 excerpt: >-
   Everything you need to know to store, send, and receive Ethereum & other
   cryptocurrencies safely, without compromising on decentralisation.
-thumb_img_path: images/1__PrWCeKJEFi9fxYtBh27SHQ.jpeg
-content_img_path: images/1__PrWCeKJEFi9fxYtBh27SHQ.jpeg
+thumb_img_path: /images/1__PrWCeKJEFi9fxYtBh27SHQ.jpeg
+content_img_path: /images/1__PrWCeKJEFi9fxYtBh27SHQ.jpeg
 layout: post
 ---
 

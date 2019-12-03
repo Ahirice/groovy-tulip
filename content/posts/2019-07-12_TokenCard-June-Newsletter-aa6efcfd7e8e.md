@@ -10,8 +10,8 @@ slug: /tokencard-june-newsletter
 excerpt: >-
   Hi Tokenauts! Welcome to our June newsletter — it’s a whopper. This month we
   cover launching on the App Store, how you could get free DAI…
-thumb_img_path: images/1__qZcIozuYiSjj5JFeiNmWFw.png
-content_img_path: images/1__qZcIozuYiSjj5JFeiNmWFw.png
+thumb_img_path: /images/1__qZcIozuYiSjj5JFeiNmWFw.png
+content_img_path: /images/1__qZcIozuYiSjj5JFeiNmWFw.png
 layout: post
 ---
 

@@ -10,8 +10,8 @@ slug: /tokencard-community-meet-up
 excerpt: >-
   We’re super excited to announce our community meet-up, happening Thursday 21st
   of March at TT Liquor, London.
-thumb_img_path: images/1__sWVMWKwhs4RV6TDMnOu7QQ.jpeg
-content_img_path: images/1__sWVMWKwhs4RV6TDMnOu7QQ.jpeg
+thumb_img_path: /images/1__sWVMWKwhs4RV6TDMnOu7QQ.jpeg
+content_img_path: /images/1__sWVMWKwhs4RV6TDMnOu7QQ.jpeg
 layout: post
 ---
 

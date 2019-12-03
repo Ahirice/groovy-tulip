@@ -10,8 +10,8 @@ slug: /tokencard-included-in-cohort-4-of-the-fca-sandbox
 excerpt: >-
   I’m really proud to announce that we’ve been selected to be part of the UK’s
   FCA Sandbox (Cohort 4). This regulatory sandbox allows…
-thumb_img_path: images/1__qwcLj0bqlHkl1HsCz__03TQ.jpeg
-content_img_path: images/1__qwcLj0bqlHkl1HsCz__03TQ.jpeg
+thumb_img_path: /images/1__qwcLj0bqlHkl1HsCz__03TQ.jpeg
+content_img_path: /images/1__qwcLj0bqlHkl1HsCz__03TQ.jpeg
 layout: post
 ---
 

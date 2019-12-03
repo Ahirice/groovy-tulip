@@ -10,8 +10,8 @@ slug: /launching-android-at-monolith
 excerpt: >-
   Near daily we got emails, messages, telegrams, and feedback at events asking a
   simple question: When Android? Now is the time and learn…
-thumb_img_path: images/1__4TTgsCPAATeHo9sHQNjMvg.png
-content_img_path: images/1__4TTgsCPAATeHo9sHQNjMvg.png
+thumb_img_path: /images/1__4TTgsCPAATeHo9sHQNjMvg.png
+content_img_path: /images/1__4TTgsCPAATeHo9sHQNjMvg.png
 layout: post
 ---
 

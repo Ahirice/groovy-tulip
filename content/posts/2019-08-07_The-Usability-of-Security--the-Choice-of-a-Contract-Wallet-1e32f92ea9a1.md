@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /the-usability-of-security-the-choice-of-a-contract-wallet
 excerpt: How to design a wallet that stands the test of time? Make it smarter!
-thumb_img_path: images/1__zup3ifzvGX5hSsS2NWtGhQ.jpeg
-content_img_path: images/1__zup3ifzvGX5hSsS2NWtGhQ.jpeg
+thumb_img_path: /images/1__zup3ifzvGX5hSsS2NWtGhQ.jpeg
+content_img_path: /images/1__zup3ifzvGX5hSsS2NWtGhQ.jpeg
 layout: post
 ---
 

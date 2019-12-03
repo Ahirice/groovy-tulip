@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /community-progress-report
 excerpt: 'TokenCard update #004'
-thumb_img_path: images/1__1bm__X1YxMH9qTD39AGPwVQ.png
-content_img_path: images/1__1bm__X1YxMH9qTD39AGPwVQ.png
+thumb_img_path: /images/1__1bm__X1YxMH9qTD39AGPwVQ.png
+content_img_path: /images/1__1bm__X1YxMH9qTD39AGPwVQ.png
 layout: post
 ---
 

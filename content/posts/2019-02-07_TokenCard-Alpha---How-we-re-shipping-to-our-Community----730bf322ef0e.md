@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /tokencard-alpha-how-were-shipping-to-our-community
 excerpt: "Hi Tokenauts \U0001F44B"
-thumb_img_path: images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
-content_img_path: images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+thumb_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
+content_img_path: /images/1__7ZsQIUWRXigGeJTL1__oMmQ.png
 layout: post
 ---
 

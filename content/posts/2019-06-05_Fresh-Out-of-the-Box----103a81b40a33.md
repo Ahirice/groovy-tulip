@@ -10,8 +10,8 @@ slug: /fresh-out-of-the-box
 excerpt: >-
   The first TokenCards have been making their way to our community around the UK
   and 30 European countries over the past month or so — from…
-thumb_img_path: images/1__lghTK4Yb__hlnUel25GASsw.jpeg
-content_img_path: images/1__lghTK4Yb__hlnUel25GASsw.jpeg
+thumb_img_path: /images/1__lghTK4Yb__hlnUel25GASsw.jpeg
+content_img_path: /images/1__lghTK4Yb__hlnUel25GASsw.jpeg
 layout: post
 ---
 

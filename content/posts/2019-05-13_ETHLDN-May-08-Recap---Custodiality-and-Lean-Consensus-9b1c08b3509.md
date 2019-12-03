@@ -10,8 +10,8 @@ slug: /ethldn-may-08-recap-custodiality-and-lazy-consensus
 excerpt: >-
   How to efficiently secure cryptoassets without hindering spendability? How to
   design energy-efficient private chains? Dive in with 3…
-thumb_img_path: images/1__af6RKnvm__AxeYJFVvMMF3Q.jpeg
-content_img_path: images/1__af6RKnvm__AxeYJFVvMMF3Q.jpeg
+thumb_img_path: /images/1__af6RKnvm__AxeYJFVvMMF3Q.jpeg
+content_img_path: /images/1__af6RKnvm__AxeYJFVvMMF3Q.jpeg
 layout: post
 ---
 

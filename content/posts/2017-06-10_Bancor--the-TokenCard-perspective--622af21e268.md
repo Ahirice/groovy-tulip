@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /bancor-the-tokencard-perspective
 excerpt: Breaking new ground.
-thumb_img_path: images/1__bOVSTxxN3bs__OH2i7hfI7Q.png
-content_img_path: images/1__bOVSTxxN3bs__OH2i7hfI7Q.png
+thumb_img_path: /images/1__bOVSTxxN3bs__OH2i7hfI7Q.png
+content_img_path: /images/1__bOVSTxxN3bs__OH2i7hfI7Q.png
 layout: post
 ---
 

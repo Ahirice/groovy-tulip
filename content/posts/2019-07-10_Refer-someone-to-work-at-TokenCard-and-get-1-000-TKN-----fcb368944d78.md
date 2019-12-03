@@ -10,8 +10,8 @@ slug: /refer-someone-to-work-at-tokencard-and-get-1-000-tkn
 excerpt: >-
   Off with the banks, in with the ETH! | Join team TokenCard to usher Defi on
   Ethereum. Refer relevant profiles and get TKN if they are…
-thumb_img_path: images/1__C__YjRJgy4NXEWIfQZKRL6Q.png
-content_img_path: images/1__C__YjRJgy4NXEWIfQZKRL6Q.png
+thumb_img_path: /images/1__C__YjRJgy4NXEWIfQZKRL6Q.png
+content_img_path: /images/1__C__YjRJgy4NXEWIfQZKRL6Q.png
 layout: post
 ---
 

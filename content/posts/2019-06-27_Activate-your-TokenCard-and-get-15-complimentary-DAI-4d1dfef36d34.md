@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /activate-your-tokencard-and-get-15-complimentary-dai
 excerpt: "\U0001F4B8 Get 15 DAI if you’re among the first 1000 to signup and activate your card: the Ethereum starter pack just got even better!"
-thumb_img_path: images/1__BQbFmnN8DkNXF95xwJJ3qw.png
-content_img_path: images/1__BQbFmnN8DkNXF95xwJJ3qw.png
+thumb_img_path: /images/1__BQbFmnN8DkNXF95xwJJ3qw.png
+content_img_path: /images/1__BQbFmnN8DkNXF95xwJJ3qw.png
 layout: post
 ---
 

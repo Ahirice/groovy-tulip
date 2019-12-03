@@ -10,8 +10,8 @@ slug: /the-future-of-decentralised-finance
 excerpt: >-
   A sneak peak into the future of decentralised & open finance, thanks to the
   insights of builders and corporate investors involved in…
-thumb_img_path: images/1__X7FZyi0XTfQufxFkhhTE1A.jpeg
-content_img_path: images/1__X7FZyi0XTfQufxFkhhTE1A.jpeg
+thumb_img_path: /images/1__X7FZyi0XTfQufxFkhhTE1A.jpeg
+content_img_path: /images/1__X7FZyi0XTfQufxFkhhTE1A.jpeg
 layout: post
 ---
 

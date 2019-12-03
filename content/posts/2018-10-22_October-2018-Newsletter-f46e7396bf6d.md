@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /october-2018-newsletter
 excerpt: 'Happy October! We hope its full of spooky, fun times.'
-thumb_img_path: images/1__1RE8fXFzmkoE3__e5PZLl0g.png
-content_img_path: images/1__1RE8fXFzmkoE3__e5PZLl0g.png
+thumb_img_path: /images/1__1RE8fXFzmkoE3__e5PZLl0g.png
+content_img_path: /images/1__1RE8fXFzmkoE3__e5PZLl0g.png
 layout: post
 ---
 

@@ -10,8 +10,8 @@ slug: /meet-bertie-our-finance-officer
 excerpt: >-
   Bertie is our in-house is finance whizz, and is responsible for all things
   money at TokenCard. He’s been with the team since 2017 and…
-thumb_img_path: images/1__kBPgAYBCXwQFf9eUGtcbdQ.jpeg
-content_img_path: images/1__kBPgAYBCXwQFf9eUGtcbdQ.jpeg
+thumb_img_path: /images/1__kBPgAYBCXwQFf9eUGtcbdQ.jpeg
+content_img_path: /images/1__kBPgAYBCXwQFf9eUGtcbdQ.jpeg
 layout: post
 ---
 

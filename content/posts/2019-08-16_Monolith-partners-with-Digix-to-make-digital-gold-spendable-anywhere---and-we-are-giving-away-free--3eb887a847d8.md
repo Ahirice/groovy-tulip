@@ -9,8 +9,8 @@ keywords: []
 slug: >-
   /monolith-partners-with-digix-to-make-digital-gold-spendable-anywhere-and-we-are-giving-away-free
 excerpt: "Order your \U0001F4B3 and get free DGX. Spend your DGX in a swipe & share about it to get even more! Earn up to 0.2 g of DGX gold."
-thumb_img_path: images/1__cqPjJOrSxJ__29uUKmCTGxA.png
-content_img_path: images/1__cqPjJOrSxJ__29uUKmCTGxA.png
+thumb_img_path: /images/1__cqPjJOrSxJ__29uUKmCTGxA.png
+content_img_path: /images/1__cqPjJOrSxJ__29uUKmCTGxA.png
 layout: post
 ---
 

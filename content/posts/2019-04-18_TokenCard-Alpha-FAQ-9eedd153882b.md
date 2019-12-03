@@ -10,8 +10,8 @@ slug: /tokencard-alpha-faq
 excerpt: >-
   We launched TokenCard’s alpha last week, and many questions arose. This post
   answers the most popular ones.
-thumb_img_path: images/1__CH3Ix__77DYptwj6etavlAg.gif
-content_img_path: images/1__CH3Ix__77DYptwj6etavlAg.gif
+thumb_img_path: /images/1__CH3Ix__77DYptwj6etavlAg.gif
+content_img_path: /images/1__CH3Ix__77DYptwj6etavlAg.gif
 layout: post
 ---
 

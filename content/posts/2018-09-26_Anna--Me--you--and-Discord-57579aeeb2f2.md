@@ -10,8 +10,8 @@ slug: /anna-me-you-and-discord
 excerpt: >-
   In my last post I talked about how community sits at the heart of what we do
   here at Token. With that in mind, I’m keen to spend more time…
-thumb_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
-content_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+thumb_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+content_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
 layout: post
 ---
 

@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /how-to-interact-with-your-tokenwallet-using-etherscan
 excerpt: "Hi Tokenauts \U0001F44B In this post we’ll walk through a couple of the ways in which TokenAlpha users can interact with their TokenWallet using…"
-thumb_img_path: images/1__x3z8zbGMhf4Le4OVmdVXqA.jpeg
-content_img_path: images/1__x3z8zbGMhf4Le4OVmdVXqA.jpeg
+thumb_img_path: /images/1__x3z8zbGMhf4Le4OVmdVXqA.jpeg
+content_img_path: /images/1__x3z8zbGMhf4Le4OVmdVXqA.jpeg
 layout: post
 ---
 

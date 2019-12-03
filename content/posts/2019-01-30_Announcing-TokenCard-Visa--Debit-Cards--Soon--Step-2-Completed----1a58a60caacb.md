@@ -10,8 +10,8 @@ slug: /announcing-tokencard-visa-debit-cards-soon-step-2-completed
 excerpt: >-
   Today TokenCard announces a partnership with Contis, the award-winning
   banking, payments & processing services provider, to issue…
-thumb_img_path: images/1__QZzleVC1__BZvzYgU87vlqA.png
-content_img_path: images/1__QZzleVC1__BZvzYgU87vlqA.png
+thumb_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
+content_img_path: /images/1__QZzleVC1__BZvzYgU87vlqA.png
 layout: post
 ---
 

@@ -10,8 +10,8 @@ slug: /tokencard-may-newsletter
 excerpt: >-
   Welcome to our May newsletter — and boy, is it jam-packed. From the first
   TokenCard Alpha card unboxings, to a very special announcement…
-thumb_img_path: images/1__rco__pcLkMc1ooiZulL4D__w.png
-content_img_path: images/1__rco__pcLkMc1ooiZulL4D__w.png
+thumb_img_path: /images/1__rco__pcLkMc1ooiZulL4D__w.png
+content_img_path: /images/1__rco__pcLkMc1ooiZulL4D__w.png
 layout: post
 ---
 

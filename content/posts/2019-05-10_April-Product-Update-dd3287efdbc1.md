@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /april-product-update
 excerpt: "Hello Tokenauts \U0001F44B Supporting the first TokenCard Alpha wallet and card users has been the main focus of the Product and Engineering team…"
-thumb_img_path: images/1__rco__pcLkMc1ooiZulL4D__w.png
-content_img_path: images/1__rco__pcLkMc1ooiZulL4D__w.png
+thumb_img_path: /images/1__rco__pcLkMc1ooiZulL4D__w.png
+content_img_path: /images/1__rco__pcLkMc1ooiZulL4D__w.png
 layout: post
 ---
 

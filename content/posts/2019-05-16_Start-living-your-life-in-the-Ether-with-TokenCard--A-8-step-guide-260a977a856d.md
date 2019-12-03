@@ -10,8 +10,8 @@ slug: /start-living-your-life-in-the-ether-with-tokencard-a-10-step-guide
 excerpt: >-
   The 8-step path to walk to earn your financial freedom, and keep it! Never
   forget: with non-custodiality comes great responsibility.
-thumb_img_path: images/1__AjzBAcDVAihipS5HalbpaA.jpeg
-content_img_path: images/1__AjzBAcDVAihipS5HalbpaA.jpeg
+thumb_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
+content_img_path: /images/1__AjzBAcDVAihipS5HalbpaA.jpeg
 layout: post
 ---
 

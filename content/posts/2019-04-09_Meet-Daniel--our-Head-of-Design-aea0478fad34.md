@@ -10,8 +10,8 @@ slug: /meet-daniel-our-head-of-design
 excerpt: >-
   Daniel is our Head of Design, and is responsible for the look and feel of all
   things TokenCard — from the visual identity of the brand, to…
-thumb_img_path: images/1__zGeSPPqIiBOZ7BSvznUkfA.png
-content_img_path: images/1__zGeSPPqIiBOZ7BSvznUkfA.png
+thumb_img_path: /images/1__zGeSPPqIiBOZ7BSvznUkfA.png
+content_img_path: /images/1__zGeSPPqIiBOZ7BSvznUkfA.png
 layout: post
 ---
 

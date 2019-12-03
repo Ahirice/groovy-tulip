@@ -10,8 +10,8 @@ slug: /tokencard-now-on-the-app-store
 excerpt: >-
   The only non-custodial contract wallet paired with a debit card is now live,
   along with a gift: get 15 DAI for activating your card!
-thumb_img_path: images/1__gKhqucen8cp6q6zZGSbC6g.png
-content_img_path: images/1__gKhqucen8cp6q6zZGSbC6g.png
+thumb_img_path: /images/1__gKhqucen8cp6q6zZGSbC6g.png
+content_img_path: /images/1__gKhqucen8cp6q6zZGSbC6g.png
 layout: post
 ---
 

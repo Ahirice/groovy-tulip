@@ -10,8 +10,8 @@ slug: /tokencard-visa-debit-card-alpha-access-sign-up-now
 excerpt: >-
   Today, for the first time, we are granting early access to the TokenCard alpha
   for those of our community who meet the following criteria:
-thumb_img_path: images/1__Hs4OkBT__q1Z7H9udUtq5UQ.png
-content_img_path: images/1__Hs4OkBT__q1Z7H9udUtq5UQ.png
+thumb_img_path: /images/1__Hs4OkBT__q1Z7H9udUtq5UQ.png
+content_img_path: /images/1__Hs4OkBT__q1Z7H9udUtq5UQ.png
 layout: post
 ---
 

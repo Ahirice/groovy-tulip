@@ -10,8 +10,8 @@ slug: /december-end-of-year-update
 excerpt: >-
   Merry Christmas all from the Token team and a huge thank you to our community
   for the continued support. As always, the ride has been a…
-thumb_img_path: images/0__pPBWVW__nRywR7msj.png
-content_img_path: images/0__pPBWVW__nRywR7msj.png
+thumb_img_path: /images/0__pPBWVW__nRywR7msj.png
+content_img_path: /images/0__pPBWVW__nRywR7msj.png
 layout: post
 ---
 

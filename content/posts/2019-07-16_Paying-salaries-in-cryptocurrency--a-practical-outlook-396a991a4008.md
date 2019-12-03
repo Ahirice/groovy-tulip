@@ -10,8 +10,8 @@ slug: /paying-salaries-in-cryptocurrency-a-practical-outlook
 excerpt: >-
   Our Financial Officer offers insights gathered after three months of salaries
   paid in cryptocurrencies.
-thumb_img_path: images/1__fBZyj6GPsLVjr7RbIBpzuA.png
-content_img_path: images/1__fBZyj6GPsLVjr7RbIBpzuA.png
+thumb_img_path: /images/1__fBZyj6GPsLVjr7RbIBpzuA.png
+content_img_path: /images/1__fBZyj6GPsLVjr7RbIBpzuA.png
 layout: post
 ---
 

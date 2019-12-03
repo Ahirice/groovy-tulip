@@ -10,8 +10,8 @@ slug: /anna-my-first-month-at-token
 excerpt: >-
   I joined Token as Head of Marketing on June 8th — 7.5 weeks ago to be precise.
   It’s been an amazing experience — I’ve loved every minute —…
-thumb_img_path: images/1__uHr__G__86n40zKwDg10__h6g.png
-content_img_path: images/1__uHr__G__86n40zKwDg10__h6g.png
+thumb_img_path: /images/1__uHr__G__86n40zKwDg10__h6g.png
+content_img_path: /images/1__uHr__G__86n40zKwDg10__h6g.png
 layout: post
 ---
 

@@ -10,8 +10,8 @@ slug: /what-does-soon-mean
 excerpt: >-
   As we move closer to launch we’ve noticed there have been a lot of questions
   as to what Soon™ actually means. We’re still not able to…
-thumb_img_path: images/1__2aASimI8k4WbHVY1vFTecA.jpeg
-content_img_path: images/1__2aASimI8k4WbHVY1vFTecA.jpeg
+thumb_img_path: /images/1__2aASimI8k4WbHVY1vFTecA.jpeg
+content_img_path: /images/1__2aASimI8k4WbHVY1vFTecA.jpeg
 layout: post
 ---
 

@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /token-community-q-a
 excerpt: "Hi \U0001F44B"
-thumb_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
-content_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+thumb_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+content_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
 layout: post
 ---
 

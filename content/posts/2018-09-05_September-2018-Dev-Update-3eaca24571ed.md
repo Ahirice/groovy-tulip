@@ -6,8 +6,8 @@ categories: []
 keywords: []
 slug: /september-2018-dev-update
 excerpt: 'Hello, it’s Mischa :)'
-thumb_img_path: images/1__y4SLIt8zWDeDYO6HWuISgA.jpeg
-content_img_path: images/1__y4SLIt8zWDeDYO6HWuISgA.jpeg
+thumb_img_path: /images/1__y4SLIt8zWDeDYO6HWuISgA.jpeg
+content_img_path: /images/1__y4SLIt8zWDeDYO6HWuISgA.jpeg
 layout: post
 ---
 

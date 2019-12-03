@@ -2,12 +2,12 @@
 title: "The Android Beta is over \U0001F916"
 description: The Android Beta is over — Don’t forget to review and share!
 date: '2019-11-07T16:22:31.340Z'
-categories: [category4, category3]
+categories: []
 keywords: []
 slug: /the-android-beta-is-over
 excerpt: The Android Beta is over — Don’t forget to review and share!
-thumb_img_path: images/1__S0mkUR9t6yQkdknFGsmvkQ.png
-content_img_path: images/1__S0mkUR9t6yQkdknFGsmvkQ.png
+thumb_img_path: /images/1__S0mkUR9t6yQkdknFGsmvkQ.png
+content_img_path: /images/1__S0mkUR9t6yQkdknFGsmvkQ.png
 layout: post
 ---
 

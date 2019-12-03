@@ -13,8 +13,8 @@ slug: >-
 excerpt: >-
   What's next for Ethereum? Once progresses are made on privacy, UX and
   scalability, we're in for a complete redefinition of what trust…
-thumb_img_path: images/1__fEszowUMiJczj7N22OM2eg.jpeg
-content_img_path: images/1__fEszowUMiJczj7N22OM2eg.jpeg
+thumb_img_path: /images/1__fEszowUMiJczj7N22OM2eg.jpeg
+content_img_path: /images/1__fEszowUMiJczj7N22OM2eg.jpeg
 layout: post
 ---
 

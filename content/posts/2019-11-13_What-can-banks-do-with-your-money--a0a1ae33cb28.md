@@ -1,44 +1,47 @@
 ---
 title: What can banks do with your money?
-description: For someone not familiar with the topic, it reads like a weird question,
-  to begin with — it’s my money after all right?
-date: 2019-11-13T14:45:42.672Z
-categories: [category1, category2]
+description: >-
+  For someone not familiar with the topic, it reads like a weird question, to
+  begin with — it’s my money after all right?
+date: '2019-11-13T14:45:42.672Z'
+categories: []
 keywords: []
-slug: "/what-can-banks-do-with-your-money"
-excerpt: For someone not familiar with the topic, it reads like a weird question,
-  to begin with — it’s my money after all right?
-thumb_img_path: images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
-content_img_path: images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
+slug: /what-can-banks-do-with-your-money
+excerpt: >-
+  For someone not familiar with the topic, it reads like a weird question, to
+  begin with — it’s my money after all right?
+thumb_img_path: /images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
+content_img_path: /images/1____oTzoAgzc7AWqzs7QcOUlg.jpeg
 layout: post
-
 ---
+
+
 For someone not familiar with the topic, it reads like a weird question, to begin with — it’s my money after all right?
 
 Here's the good news: thanks to the emergence of cryptocurrencies, more and more people are now educating themselves on our monetary policies as well as the inner workings of banks and other financial institutions… and what they discover is far from pretty.
 
 Indeed, there are many layers to this question, so let’s slice this into three main ones:
 
-1. **Can I spend the money I stored at the bank freely?**
-2. **What does the bank do with my “sleeping” money?**
-3. **When I invest in a financial product, where does the money goes to?**
+1.  **Can I spend the money I stored at the bank freely?**
+2.  **What does the bank do with my “sleeping” money?**
+3.  **When I invest in a financial product, where does the money goes to?**
 
 We will try to cover them all today, but more than anything, illustrate any major points with examples: it won’t be too hard! Indeed, when people find out that there are limitations on what they thought was their money, they tend to be pretty angry about it and share their discovery.
 
 ℹ️ _The topic is already complex enough, so we will focus solely on commercial banks to preserve readability. This article does not constitute any form of investment advice. Think twice, own your keys, use condoms._
 
-### 1. Can I spend the money I have in the bank freely?
+### 1\. Can I spend the money I have in the bank freely?
 
 Welcome into the first layer of horror. The quick answer is simply no, and we all have a basic understanding of it:
 
-* If you try to empty your whole bank account at an ATM, your bank won’t let that happen.
-* If you go abroad and try to pull some money from an ATM or make a large purchase, you might be blocked as well.
+*   If you try to empty your whole bank account at an ATM, your bank won’t let that happen.
+*   If you go abroad and try to pull some money from an ATM or make a large purchase, you might be blocked as well.
 
 While these two scenarios somehow make sense from a safety perspective, they clearly illustrate that your bank:
 
-1. Knows any ingoing or outgoing transactions happening on your account,
-2. Monitors them (at least to prevent suspicious activities),
-3. Is able to block transactions on the fly if they raise any flag.
+1.  Knows any ingoing or outgoing transactions happening on your account,
+2.  Monitors them (at least to prevent suspicious activities),
+3.  Is able to block transactions on the fly if they raise any flag.
 
 #### Cryptocurrencies are a good tell, the answer is no
 
@@ -52,12 +55,12 @@ Even custodial crypto services can partake: for instance, Coinbase explicitly li
 
 The blocking of cryptocurrency exchanges is thoroughly documented across the web, so let’s do a quick world tour:
 
-![RBI Crypto ban in India](/images/0__j5w3jtXp75kf0OnV.jpg)
+![RBI Crypto ban in India](images/0__j5w3jtXp75kf0OnV.jpg)
 RBI Crypto ban in India
 
-* [Indians are now threatened](https://twitter.com/DesiCryptoHodlr/status/1082870146685784065) to have their bank account closed if they move money in or out a cryptocurrency exchange service. The first letters announcing the closure of accounts [were sent](https://twitter.com/CryptoRevoltFR/status/1084054866987749377).
-* Several French banks prevent people from moving money in/from exchanges, on the pretence of protecting them from the risk involved. Even when people go through great lengths to demonstrate that they are highly informed about the risk, they still cannot partake. ([Example in French](https://twitter.com/CryptoRevoltFR/status/1088824786392940544))
-* In the US, Bank of America, Citigroup, JP Morgan, Capital One, and Discover all banned at some point, or are still banning the purchase of cryptocurrencies. ([Source](https://www.forbes.com/sites/naeemaslam/2018/02/05/banks-banning-cryptocurrency-purchase-on-credit-cards-why/#19542a473cf9))
+*   [Indians are now threatened](https://twitter.com/DesiCryptoHodlr/status/1082870146685784065) to have their bank account closed if they move money in or out a cryptocurrency exchange service. The first letters announcing the closure of accounts [were sent](https://twitter.com/CryptoRevoltFR/status/1084054866987749377).
+*   Several French banks prevent people from moving money in/from exchanges, on the pretence of protecting them from the risk involved. Even when people go through great lengths to demonstrate that they are highly informed about the risk, they still cannot partake. ([Example in French](https://twitter.com/CryptoRevoltFR/status/1088824786392940544))
+*   In the US, Bank of America, Citigroup, JP Morgan, Capital One, and Discover all banned at some point, or are still banning the purchase of cryptocurrencies. ([Source](https://www.forbes.com/sites/naeemaslam/2018/02/05/banks-banning-cryptocurrency-purchase-on-credit-cards-why/#19542a473cf9))
 
 > It’s not infrequent to see banks being more zealous than their local governments when it comes to preventing cryptocurrency purchase or sale.
 
@@ -65,8 +68,7 @@ The issue is widespread. We see reports coming from all around the world, includ
 
 This has gotten to the point where the community is now compiling [list of banks](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false) who prevent fiat-to-crypto transactions and the ones that are crypto-friendly:
 
-![Banks that explicitly ban or limit bitcoin purchasing](images/0__bTx4eTBps2qaVIE6.jpg)
-
+![[Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)](images/0__bTx4eTBps2qaVIE6.jpg)
 [Banks that explicitly ban or limit bitcoin purchasing](https://www.banks.com/articles/cryptocurrency/banks-that-accept-bitcoin/?show=false)
 
 So there you have it!   
@@ -74,7 +76,7 @@ Your bank monitors every transaction happening on your account. It’s probably 
 
 So now, let’s have a lot at what happens with your sleeping money — the one sitting in your checking account that you haven't invested in any financial products.
 
-### 2. What does my bank do with my “sleeping” money? Is it invested?
+### 2\. What does my bank do with my “sleeping” money? Is it invested?
 
 The first thing to understand here is that the money you have on your account at your bank is not yours, in the stricter sense of the term. **From the bank perspective, it’s a liability**: if you deposit $1000 — the bank owes you $1000. Essentially, _your deposit at the end of the day is nothing more than an entry in the bank ledger._
 
@@ -96,7 +98,7 @@ No, what happens instead is this: the amount written in Lloyds’ ledger next to
 
 ![](images/0__2upV__8qshyrNORpo.jpg)
 
-The confidence in the banking system is preserved through the mandatory reserve, **corresponding to a fraction (\~10%) of the loaned amount**. It effectively means that if more than 10% of the balances are withdrawn simultaneously (bank run), your bank defaults and your money is gone.
+The confidence in the banking system is preserved through the mandatory reserve, **corresponding to a fraction (~10%) of the loaned amount**. It effectively means that if more than 10% of the balances are withdrawn simultaneously (bank run), your bank defaults and your money is gone.
 
 The diagram presented above also does a pretty good job of explaining the [Money Multiplier Effect](https://en.wikipedia.org/wiki/Money_multiplier). Since the mandatory reserve is low, **banks are able to increase their overall outgoing balance from one borrower to the next (re-lending) with a minimal commitment on their end**: in the final situation, the bank has a reserve of $271 despite $3439 being emitted in the system.
 
@@ -106,7 +108,7 @@ There are some safeguards for this, for instance in Europe the customer bank acc
 
 The 0.1 = 1 absurdity depicted above is more than a mere bank problem: it’s a **system-wide issue.** It has to do with what money even means for those in charge, and the monetary policies enforced.
 
-![](images/0__XovBGEgZ5hUWwMD8.png)
+![[DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE](images/0__XovBGEgZ5hUWwMD8.png)
 [DogeCoin](https://dogecoin.com/) is a parody currency often used to denounce the abuses of our current monetary system. 1 DOGE = 1 DOGE
 
 In the long run, the best way to protect your assets might be to simply to pick a currency where this cannot happen. The cool thing with Bitcoin and Ethereum, for instance, is that **1 = 1**: 1 ETH is always worth 1 ETH, and “backed by 1 ETH”.
@@ -119,9 +121,7 @@ On the other hand, here is Alan Greenspan’s take (13th Chair of the Federal Re
 
 > The United States can pay any debt it has because we can always print money to do that.
 
-{{< youtube Ck3FuTzZvhI >}}
-
-### 3. When you invest in a financial product, where does your money goes to?
+### 3\. When you invest in a financial product, where does your money goes to?
 
 The question is so wide that it will be hard to answer systematically. However, despite the sheer amount of possibilities you have here, they tend to all share the same high-level issues: the **financial products are unnecessarily complex, transparency is generally lacking, and finally, the users usually have little control over the actual usage of its funds**.
 
@@ -186,3 +186,5 @@ As we move forward, we'll provide access to more and more DeFi services straight
 It's time for you to experience [the first participatory and decentralised banking alternative.](https://monolith.app.link/ohz0vFAcl1) 👇
 
 [![](https://cdn-images-1.medium.com/max/800/1*1xnSIs4t4M40S5jfLwca6Q.jpeg)](https://monolith.app.link/ohz0vFAcl1)
+
+**\-** [**🕸 Website**](https://monolith.xyz/) **|** [**🐦 Twitter**](https://twitter.com/monolith_web3) **|** [**🎮 Discord**](https://discord.gg/GN6gGEP) **|** [**👽 Reddit**](https://www.reddit.com/r/Monolith_Web3/) **|**[**✈️Telegram**](https://t.me/Monolith_Web3) **-**

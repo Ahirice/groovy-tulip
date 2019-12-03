@@ -10,8 +10,8 @@ slug: /tokencard-update-timings-fees-shipping
 excerpt: >-
   This shipment update covers our fee structure, the ongoing testing phase as
   well as our user onboarding process.
-thumb_img_path: images/1__qZcIozuYiSjj5JFeiNmWFw.png
-content_img_path: images/1__qZcIozuYiSjj5JFeiNmWFw.png
+thumb_img_path: /images/1__qZcIozuYiSjj5JFeiNmWFw.png
+content_img_path: /images/1__qZcIozuYiSjj5JFeiNmWFw.png
 layout: post
 ---
 

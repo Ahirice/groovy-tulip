@@ -10,8 +10,8 @@ slug: /dan-state-of-the-community
 excerpt: >-
   It’s been 4 months since I joined Token as Community Manager. It’s been an
   amazing experience so far, I’ve really enjoyed getting to know…
-thumb_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
-content_img_path: images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+thumb_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
+content_img_path: /images/1__g2xpRy1E8BFm__iUqbU6YpA.jpeg
 layout: post
 ---
 
