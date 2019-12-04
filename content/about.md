@@ -116,7 +116,7 @@ You've come to the right place! If you're just discovering the project, here are
 
 * [💳 Here's an overview of the whole process to get your own card](https://medium.com/tokencard/start-living-your-life-in-the-ether-with-tokencard-a-10-step-guide-260a977a856d): Start spending your ETH&ERC-20 IRL, with some class!
 * [🏛️ Does the bank of tomorrow hold no funds?](https://medium.com/tokencard/does-the-bank-of-tomorrow-hold-no-funds-ef3ceb56d709): Our CTO Mischa Tuffield reflecting on how to create a bank serving the public best interest
-* [🎉 Reflecting on two years of TokenCard — from zero to living a life on Ethereum](https://medium.com/tokencard/tokencard-2y-crowdsale-anniversary-be5bde2f6f1a): Our CEO, Mel Gelderman looking back at what we achieved since our crowdsale and giving a peak of what's coming next!
+* [🎉 Reflecting on two years of TokenCard — from zero to living a life on Ethereum](https://medium.com/tokencard/tokencard-2y-crowdsale-anniversary-be5bde2f6f1a): Our CEO, Mel Gelderman looking back at what we achieved since our crowdsale and giving a peek of what's coming next!
 
 ### User Reviews
 
