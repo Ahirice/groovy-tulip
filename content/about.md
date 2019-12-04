@@ -150,5 +150,8 @@ You've come to the right place! If you're just discovering the project, here are
 * [🎧 Into the Ether x TokenCard: Path to a Self-Sovereign Banking Service](https://ethhub.substack.com/p/tokencard-path-to-a-self-sovereign) | 50 min
 * [🌏 Monolith - Spend Cryptocurrency Anywhere in the World - Crypto Love](https://youtu.be/UW7oVPE7EQE) | 32 min
 * [🏦 Monolith Exclusive Review | Best Crypto Bank Solution?!  - BTCTV](https://www.youtube.com/watch?v=CN_zgPaYz78) | 17 min
+* 
 
-<div align="center"><a href="https://monolith.app.link/1Et7kyYZV1 target="_blank"> <img src="/images/Monolioth_button.png)"></img> <img src="/images/2-STORES-small.jpg"></img> <p>Get your Monolith Card</p> </a></div>
+<div align="center"><a href="[https://monolith.app.link/1Et7kyYZV1](https://monolith.app.link/1Et7kyYZV1 "https://monolith.app.link/1Et7kyYZV1") target="_blank"> <img src="/images/Monolioth_button.png)"></a></div>
+
+<div align="center"><a href="https://monolith.app.link/1Et7kyYZV1 target="_blank"> <img src="/images/2-STORES-small.jpg"></img> <p>Get your Monolith Card</p> </a></div>
